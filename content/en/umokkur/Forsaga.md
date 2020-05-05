@@ -1,8 +1,10 @@
 ---
 date: "2019-02-28"
-description: Hugo, the world’s fastest framework for building websites
-title: Um okkur
-type: umokkur
+description: Saga fyrirtækisins
+title: Forsaga og upphaf
+weight: 2
+thumb: feature3/css3.png
+pinned: true
 ---
 
 # Forsaga og upphaf:

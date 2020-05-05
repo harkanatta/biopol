@@ -7,7 +7,7 @@ pagetitle: Afli/Veiðarfæri
 css: style.css
 ---
 
-# Skipting afla eftir veiðarfærum {.tabset .tabset-fade .tabset-pills}
+# Skipting afla eftir veiðarfærum
 
 ***
 
@@ -120,7 +120,7 @@ function createHighcharts(data) {
 
   Highcharts.chart("chart", {
     title: {
-      text: "Landanir í Húnaflóa 2020"
+      text: "Landanir í Húnaflóa jan.-apríl"
     },
     subtitle: {
       text: "Gögn frá Fiskistofu"

@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/en/umokkur/ranns%C3%B3knir/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/en/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
@@ -89,6 +94,11 @@
   
   <url>
     <loc>/en/umokkur/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/vorusmidja/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
@@ -325,31 +335,6 @@
                 hreflang="en"
                 href="/en/gallery/photo/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/third/</loc>
-    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/second/</loc>
-    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/presentation/first/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>

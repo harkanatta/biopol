@@ -5,6 +5,7 @@ title: Forsaga og upphaf
 weight: 2
 thumb: feature3/css3.png
 pinned: true
+image: images/UmOkkur/book-open-solid.svg
 ---
 
 # Forsaga og upphaf:

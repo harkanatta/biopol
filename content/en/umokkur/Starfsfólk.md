@@ -5,6 +5,7 @@ description: Starfsfólk BioPol
 weight: 1
 pinned: true
 thumb: feature3/css3-bare.png
+image: images/UmOkkur/users-solid.svg
 ---
 
 <div class="emloy">

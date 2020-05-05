@@ -11,9 +11,9 @@
   weight = 2
 
 [[main]]
-  identifier = "presentation"
-  name = "Pt"
-  url = "presentation"
+  identifier = "vorusmidja"
+  name = "Vörusmiðjan"
+  url = "vorusmidja"
   weight = 3
 
 [[main]]

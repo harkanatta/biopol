@@ -184,7 +184,7 @@ commento = false
   name = "facebook"
   username = ""
 [[share]]
-  name = ""
+  name = "twitter"
 
 [[footerLinks]]
   name = ""

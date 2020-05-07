@@ -55,6 +55,39 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);    1  c
         
       </item>
       
+      <item>
+        <title>Samstarf við Færeyinga</title>
+        <link>/en/frettir/sarahforoyar/</link>
+        <pubDate>Wed, 05 Oct 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 05 Oct 2011 12:00:06 +0900</atom:modified>
+        <guid>/en/frettir/sarahforoyar/</guid>
+        <description>BioPol ehf. hefur á síðustu tveimur árum staðið fyrir viðamiklum rannsóknum á lífræði, fæðuatferli og vistfræðilegum áhrifum skötusels á grunnslóð. Í tengslum við þær rannsóknir hafa byggst upp sambönd við erlendar stofnanir, þ.m.t. Hafrannsóknarstofnunina í Færeyjum. Á dögunum fór Sarah Nebel, líffræðingur og starfsmaður BioPol í heimsókn til Færeyja þar sem hún m.a. vann að aldursgreiningum á skötusel og ræddi hugmyndir um áframhaldandi samstarf og rannsóknir.
+Helstu markmið verkefnisins sem BioPol hefur unnið að er að afla þekkingar á lífsháttum, stofnsamsetningu og áhrifum skötusels á vistsamfélög á nýjum búsvæðum tegundarinnar við vestur- og norðurströnd Íslands.</description>
+        
+        
+        <media:content url="/images/frettamyndir/SarahHanna.GIF" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
 
     
   </channel>

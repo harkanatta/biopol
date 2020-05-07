@@ -2,6 +2,10 @@
 date: "2011-10-05T12:00:06+09:00"
 categories:
 - null
+series:
+- null
+tags:
+- shortcode
 description: BioPol ehf. hefur á síðustu tveimur árum staðið fyrir viðamiklum rannsóknum á lífræði, fæðuatferli og vistfræðilegum áhrifum skötusels á grunnslóð. Í tengslum við þær rannsóknir hafa byggst upp sambönd við erlendar stofnanir, þ.m.t. Hafrannsóknarstofnunina í Færeyjum. Á dögunum fór Sarah Nebel, líffræðingur og starfsmaður BioPol í heimsókn til...
 draft: false
 enableToc: false

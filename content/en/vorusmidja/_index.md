@@ -15,9 +15,8 @@ enableBio: false
 
 Sjá vefsíðu Vörusmiðjunnar www.vorusmidja.is
 
- 
+## Verðskrá: 
 {{< boxmd >}}
-Verðskrá:
 
 Heill dagur í framleiðslu 12.400 kr.- mánudaga – föstudaga
 

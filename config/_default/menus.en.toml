@@ -6,9 +6,9 @@
 
 [[main]]
   identifier = "archive"
-  name = "Archive"
+  name = "Safn"
   url = "archive"
-  weight = 2
+  weight = 5
 
 [[main]]
   identifier = "vorusmidja"
@@ -18,7 +18,7 @@
 
 [[main]]
   identifier = "gallery"
-  name = "Gallery"
+  name = "Myndir"
   url = "gallery"
   weight = 4
     
@@ -36,7 +36,7 @@
   identifier = "frettir"
   name = "Fréttir"
   url = "frettir"
-  weight = 5
+  weight = 2
 
 [[main]]
   identifier = "afli"
@@ -46,6 +46,6 @@
 
 [[main]]
   identifier = "publication"
-  name = "Pub"
+  name = "Útgefið Efni"
   url = "publication"
   weight = 7

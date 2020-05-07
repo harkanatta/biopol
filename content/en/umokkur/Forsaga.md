@@ -1,5 +1,5 @@
 ---
-date: "2019-02-28"
+date: "2009-05-28"
 description: Saga fyrirtækisins
 title: Forsaga og upphaf
 weight: 2

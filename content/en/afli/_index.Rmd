@@ -1,5 +1,5 @@
 ---
-title: Afli í Húnaflóa
+title:
 output:
   html_document:
   toc: false
@@ -7,7 +7,7 @@ pagetitle: Afli/Veiðarfæri
 css: style.css
 ---
 
-# Skipting afla eftir veiðarfærum
+# Skipting afla í Húnaflóa eftir veiðarfærum
 
 ***
 
@@ -22,7 +22,7 @@ css: style.css
 <script src="https://code.highcharts.com/highcharts.js"></script>
 <script src="https://code.highcharts.com/modules/no-data-to-display.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
-<link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
+
 
 <body>
 <div id="chart"></div>
@@ -108,11 +108,7 @@ function getTableData(table) {
 
 function createHighcharts(data) {
   Highcharts.setOptions({
-    chart: {
-        style: {
-            fontFamily: "'Courier Prime', monospace;"
-        }
-    },
+   
     lang: {
       thousandsSep: ","
     }

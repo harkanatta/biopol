@@ -1,0 +1,52 @@
+[[main]]
+  identifier = "umokkur"
+  name = "Um okkur"
+  url = "umokkur"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "Safn"
+  url = "archive"
+  weight = 5
+
+[[main]]
+  identifier = "vorusmidja"
+  name = "Vörusmiðjan"
+  url = "vorusmidja"
+  weight = 3
+
+[[main]]
+  identifier = "gallery"
+  name = "Myndir"
+  url = "gallery"
+  weight = 4
+    
+[[main]]
+  parent = "gallery"
+  name = "Cartoon"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "gallery"
+  name = "Photo"
+  url = "gallery/photo"
+
+[[main]]
+  identifier = "posts"
+  name = "Fréttir"
+  url = "posts"
+  weight = 2
+
+[[main]]
+  identifier = "afli"
+  name = "Afli"
+  url = "afli"
+  weight = 6
+
+[[main]]
+  identifier = "utgafa"
+  name = "Útgefið Efni"
+  url = "utgafa"
+  weight = 7
+  

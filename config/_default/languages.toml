@@ -1,13 +1,20 @@
-[en]
+[is]
   title = "Vefsvæði BioPol"
-  languageName = "English"
+  languageName = "Íslenska"
   weight = 1
+  languagedir = "ltr"
+  contentdir = "content/is"
+  
+[en]
+  title = "BioPol"
+  languageName = "English"
+  weight = 2
   languagedir = "ltr"
   contentdir = "content/en"
 
 [ko]
   title = "Hugo Zzo Theme"
-  languageName = "한국어"
-  weight = 2
+  languageName = "Kóreyska"
+  weight = 3
   languagedir = "ltr"
   contentdir = "content/ko"

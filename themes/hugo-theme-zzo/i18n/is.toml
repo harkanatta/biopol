@@ -1,0 +1,101 @@
+[search-placeholder]
+other = "Leit"
+
+[summary-dateformat]
+other = "02/01/2006"
+
+[reading-time]
+other = "min read"
+
+[tags]
+other = "Tög"
+
+[categories]
+other = "Flokkar"
+
+[series]
+other = "Seríur"
+
+[archive-dateformat]
+other = "02/01"
+
+[talks-dateformat]
+other = "02/01"
+
+[single-dateformat]
+other = "02/01/2006"
+
+[pub-dateformat]
+other = "2006-01-02"
+
+[resume-dateformat]
+other = "01/2006"
+
+[single-related]
+other = "Sjá einnig"
+
+[single-writtenBy]
+other = "Ritað af"
+
+[toc-label]
+other = "Hvað er á þessari síðu"
+
+[counter-site-pv]
+other = "Total views"
+
+[counter-site-uv]
+other = "Fjöldi heimsókna"
+
+[counter-page-pv]
+other = "views"
+
+[donate-message]
+other = "Support the author with"
+
+[share-message]
+other = "Deila með"
+
+[contact-name]
+other = "Nafn"
+
+[contact-email]
+other = "Tölvupóstur"
+
+[contact-tel]
+other = "Sími"
+
+[contact-file]
+other = "Skrá"
+
+[contact-message]
+other = "Skilaboð"
+
+[contact-send]
+other = "Senda"
+
+[contact-browse]
+other = "Vafra"
+
+[tooltip-home]
+other = "Heim"
+
+[tooltip-written]
+other = "Ritað"
+
+[tooltip-modified]
+other = "Ritað"
+
+[tooltip-reading-time]
+other = "Lestrartími"
+
+[showcase-overview]
+other = "Yfirlit"
+
+[showcase-pinned]
+other = "Fest"
+
+[nojs-message]
+other = "Þessi síða kemur best út með JavaScript virkjað"
+
+[posts-by-order]
+other = "Efstu færslur"

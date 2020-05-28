@@ -1,0 +1,17 @@
+---
+title: "Útgefið efni"
+date: 2020-01-20T15:43:38+09:00
+output:
+  html_document:
+  toc: false
+---
+
+Á þessari síðu má finna skýrslur, greinar og annað útgefið efni sem tengist Biopol ehf.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(DT)
+tafla <- read.csv("efni/efni.csv",encoding = "DOS/OS2-850/International")
+datatable(tafla)
+```
+
+

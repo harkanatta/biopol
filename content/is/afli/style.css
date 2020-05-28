@@ -1,0 +1,41 @@
+  body {
+  font-family: 'Courier Prime', monospace;
+  padding: 20px;
+  background: rgba(182, 132, 132, 0);
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 10px;
+}
+
+#dt-table_wrapper {
+  width: 5%;
+  margin-left: 2%;
+  width: 100%;
+}
+
+#chart {
+  width: 100%;
+}
+
+table {
+  text-align: left;
+}
+
+@media screen and (max-width: 1200px) {
+  #dt-table_wrapper,
+  #chart {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  #dt-table_wrapper {
+    margin-right: 0;
+    width: 100%;
+  }
+}
+
+

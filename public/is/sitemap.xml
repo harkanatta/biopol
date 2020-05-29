@@ -63,8 +63,38 @@
   </url>
   
   <url>
+    <loc>/is/is/</loc>
+    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/is/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/is/"
+                />
+  </url>
+  
+  <url>
+    <loc>/is/is/utgafa/</loc>
+    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/is/utgafa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/is/utgafa/"
+                />
+  </url>
+  
+  <url>
     <loc>/is/</loc>
-    <lastmod>2020-01-20T15:43:38+09:00</lastmod>
+    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,11 +110,6 @@
                 hreflang="is"
                 href="/is/"
                 />
-  </url>
-  
-  <url>
-    <loc>/is/utgafa/</loc>
-    <lastmod>2020-01-20T15:43:38+09:00</lastmod>
   </url>
   
   <url>
@@ -401,6 +426,10 @@
                 hreflang="is"
                 href="/is/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>/is/utgafa/</loc>
   </url>
   
 </urlset>

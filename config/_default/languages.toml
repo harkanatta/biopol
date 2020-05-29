@@ -12,9 +12,3 @@
   languagedir = "ltr"
   contentdir = "content/en"
 
-[ko]
-  title = "Hugo Zzo Theme"
-  languageName = "Kóreyska"
-  weight = 3
-  languagedir = "ltr"
-  contentdir = "content/ko"

@@ -1,4 +1,5 @@
 ---
+Author: Bjarni Jónasson
 date: "2011-06-05T12:00:06+09:00"
 description: Jacob Kasper, starfsmaður BioPol ehf. og Hafrannsóknastofnunar Íslands, hélt þann 4. febrúar síðastliðinn, fyrirlestur á alþjóðlegum fundi um grásleppumál. Fundurinn, sem haldinn var í London...
 draft: false

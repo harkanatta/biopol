@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Vefsvæði BioPol</title>
+    <link>/ko/en/frettir/</link>
+    <description>Recent content in Posts on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
+    
+        <atom:link href="/ko/en/frettir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Shortcodes</title>
+        <link>/ko/en/frettir/shortcodes/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
+        <guid>/ko/en/frettir/shortcodes/</guid>
+        <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different code
+java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);    1  console.log(&amp;#39;Hello World!&amp;#39;);      &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;5e3e1fef0d7f9cac\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
+        
+        
+        <media:content url="/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>/ko/en/frettir/markdown-syntax/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/markdown-syntax/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        
+        <dc:creator>Choi</dc:creator>
+        <media:content url="/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>markdown</category>
+            
+          
+            
+              <category>css</category>
+            
+          
+            
+              <category>html</category>
+            
+          
+            
+              <category>themes</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Rich Content</title>
+        <link>/ko/en/frettir/rich-content/</link>
+        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/rich-content/</guid>
+        <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+        
+        <dc:creator>Lee</dc:creator>
+        <media:content url="/images/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcodes</category>
+            
+          
+            
+              <category>privacy</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Syntax highlighting</title>
+        <link>/ko/en/frettir/syntax-highlight/</link>
+        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
+        <guid>/ko/en/frettir/syntax-highlight/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        
+        <dc:creator>Jeus</dc:creator>
+        <media:content url="/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Math Typesetting</title>
+        <link>/ko/en/frettir/math-typesetting/</link>
+        <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Tue, 17 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/math-typesetting/</guid>
+        <description>&lt;div class=&#34;box&#34;&gt;
+We need goldmark katex entension which is not yet we have: 
+[https://github.com/gohugoio/hugo/issues/6544](https://github.com/gohugoio/hugo/issues/6544)
+&lt;/div&gt;
+&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+        
+        <dc:creator>Park</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>/ko/en/frettir/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        
+        
+        
+        
+        
+        
+          
+            
+              <category>emoji</category>
+            
+          
+            
+              <category>gamoji</category>
+            
+          
+            
+              <category>namoji</category>
+            
+          
+            
+              <category>bamoji</category>
+            
+          
+            
+              <category>amoji</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Viz support</title>
+        <link>/ko/en/frettir/test-viz/</link>
+        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-viz/</guid>
+        <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
+        
+        
+        <media:content url="/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Wavedrom support</title>
+        <link>/ko/en/frettir/test-wavedrom/</link>
+        <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 18 Nov 2019 18:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-wavedrom/</guid>
+        <description>{ &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;: &amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;p.....|...&amp;quot;}, {&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]}, {&amp;quot;name&amp;quot;: &amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;0.1..0|1.0&amp;quot;}, {}, {&amp;quot;name&amp;quot;: &amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;} ]} </description>
+        
+        
+        <media:content url="/images/feature1/wave.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Chart support</title>
+        <link>/ko/en/frettir/test-chartjs/</link>
+        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-chartjs/</guid>
+        <description>{ &amp;quot;type&amp;quot;: &amp;quot;bar&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [{ &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 3, 8] }] } } { &amp;quot;type&amp;quot;: &amp;quot;line&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [ { &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 2, 3], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;orange&amp;quot; }, { &amp;quot;label&amp;quot;: &amp;quot;Some other set&amp;quot;, &amp;quot;data&amp;quot;: [15, 8, 13, 5, 5, 9], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;#44ccff&amp;quot; } ] } } </description>
+        
+        
+        <media:content url="/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>JS Sequence Diagram support</title>
+        <link>/ko/en/frettir/test-js-sequence-diagrams/</link>
+        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-js-sequence-diagrams/</guid>
+        <description>Alice-&amp;gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&amp;gt;Alice: I am good thanks! Title: Here is a title A-&amp;gt;B: Normal line B--&amp;gt;C: Dashed line C-&amp;gt;&amp;gt;D: Open arrow D--&amp;gt;&amp;gt;A: Dashed open arrow </description>
+        
+        
+        <media:content url="/images/feature2/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Mermaid support</title>
+        <link>/ko/en/frettir/test-mermaid/</link>
+        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-mermaid/</guid>
+        <description>graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; sequenceDiagram participant Alice participant Bob Alice-&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail... John--&amp;gt;Alice: Great! John-&amp;gt;Bob: How about you? Bob--&amp;gt;John: Jolly good! graph TD A[Hard] --&amp;gt;|Text| B(Round) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result 1] C --&amp;gt;|Two| E[Result 2] gantt section Section Completed :done, des1, 2014-01-06,2014-01-08 Active :active, des2, 2014-01-07, 3d Parallel 1 : des3, after des1, 1d Parallel 2 : des4, after des1, 1d Parallel 3 : des5, after des3, 1d Parallel 4 : des6, after des4, 1d classDiagram Class01 &amp;lt;|-- AveryLongClass : Cool &amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01 Class09 --&amp;gt; C2 : Where am i?</description>
+        
+        
+        <media:content url="/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>MathJax support</title>
+        <link>/ko/en/frettir/test-mathjax/</link>
+        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-mathjax/</guid>
+        <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
+        
+        
+        <media:content url="/images/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Katex support</title>
+        <link>/ko/en/frettir/test-katex/</link>
+        <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-katex/</guid>
+        <description>The following
+$$ \int_{a}^{b} x^2 dx $$
+Is an integral
+$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
+Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
+See the online reference of supported TeX functions.
+Note: For inline math to render correctly, your content file extension must be .mmark. See the official mmark site.
+Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
+        
+        
+        <media:content url="/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Flowchart support</title>
+        <link>/ko/en/frettir/test-flowchart/</link>
+        <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 14 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/test-flowchart/</guid>
+        <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank] e=&amp;gt;end: End|future:&amp;gt;http://www.google.com op1=&amp;gt;operation: My Operation|past op2=&amp;gt;operation: Stuff|current sub1=&amp;gt;subroutine: My Subroutine|invalid cond=&amp;gt;condition: Yes or No?|approved:&amp;gt;http://www.google.com c2=&amp;gt;condition: Good idea|rejected io=&amp;gt;inputoutput: catch something...|future st-&amp;gt;op1(right)-&amp;gt;cond cond(yes, right)-&amp;gt;c2 cond(no)-&amp;gt;sub1(left)-&amp;gt;op1 c2(yes)-&amp;gt;io-&amp;gt;e c2(no)-&amp;gt;op2-&amp;gt;e </description>
+        
+        
+        <media:content url="/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Samstarf við Færeyinga</title>
+        <link>/ko/en/frettir/sarahforoyar/</link>
+        <pubDate>Wed, 05 Oct 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 05 Oct 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/sarahforoyar/</guid>
+        <description>BioPol ehf. hefur á síðustu tveimur árum staðið fyrir viðamiklum rannsóknum á lífræði, fæðuatferli og vistfræðilegum áhrifum skötusels á grunnslóð. Í tengslum við þær rannsóknir hafa byggst upp sambönd við erlendar stofnanir, þ.m.t. Hafrannsóknarstofnunina í Færeyjum. Á dögunum fór Sarah Nebel, líffræðingur og starfsmaður BioPol í heimsókn til Færeyja þar sem hún m.a. vann að aldursgreiningum á skötusel og ræddi hugmyndir um áframhaldandi samstarf og rannsóknir.
+Helstu markmið verkefnisins sem BioPol hefur unnið að er að afla þekkingar á lífsháttum, stofnsamsetningu og áhrifum skötusels á vistsamfélög á nýjum búsvæðum tegundarinnar við vestur- og norðurströnd Íslands.</description>
+        
+        
+        <media:content url="/images/frettamyndir/SarahHanna.GIF" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Kræklingarækt lofar góðu á Hvammstanga</title>
+        <link>/ko/en/frettir/skelhvammst/</link>
+        <pubDate>Fri, 02 Sep 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 02 Sep 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/skelhvammst/</guid>
+        <description>Línurnar voru settar út í lok júlí 2010 og á þeim tíma hefur vaxið á þeim mikið af skel, þær stærstu á bilinu 3-4 cm, sem þykir mjög gott. Næstu skref í ræktunarferlinu er að hreinsa skelina af línunum, stærðarflokka og koma skeljum í svokallaða ræktunarsokka. Með því næst hámarks nýting og afföll verða minni.
+Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur einkum verið að fylgjast með umhverfisþáttum og sjá um sýnatöku.</description>
+        
+        
+        <media:content url="/images/frettamyndir/skel.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BioPol ehf og Háskólinn á Akureyri auglýsa stöðu sérfræðings á Skagaströnd</title>
+        <link>/ko/en/frettir/lausstada2011/</link>
+        <pubDate>Thu, 14 Jul 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 14 Jul 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/lausstada2011/</guid>
+        <description>Laus er til umsókna staða sérfræðings hjá BioPol ehf á Skagaströnd.
+BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum. dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði og leggja grunn að framleiðslu afurða.</description>
+        
+        
+        <media:content url="/images/whoami/avatar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Jacob Kasper með innlegg á ráðstefnu um grásleppumál.</title>
+        <link>/ko/en/frettir/kasperhrognkelsi/</link>
+        <pubDate>Sun, 05 Jun 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sun, 05 Jun 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/kasperhrognkelsi/</guid>
+        <description>Jacob Kasper, starfsmaður BioPol ehf. og Hafrannsóknastofnunar Íslands, hélt þann 4. febrúar síðastliðinn, fyrirlestur á alþjóðlegum fundi um grásleppumál. Fundurinn, sem haldinn var í London, er árlegur viðburður og var nú haldinn í 23. skipti undir yfirskriftinni „Lumpfish Roe Matters“. Fundinn sóttu 30 manns frá 11 löndum og má þar nefna aðila frá hagsmunasamtökum sjómanna, hrognakaupmenn og heildsala. Jacob hélt fyrirlestur undir yfirskriftinni „Fisheries Summary: Lumpfish (Cyclopterus lumpus)“ og fjallaði hann m.</description>
+        
+        
+        <media:content url="/images/frettamyndir/frett03.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BioPol ehf. skrifar undir samning við VeroMara.</title>
+        <link>/ko/en/frettir/veromara-biopol/</link>
+        <pubDate>Sat, 04 Jun 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sat, 04 Jun 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/veromara-biopol/</guid>
+        <description>BioPol ehf. hefur skrifað undir samning við VeroMara í Skotlandi sem snýr m.a að kaupum á sérfræðiráðgjöf og aðstoð við uppbyggingu á rannsóknaraðstöðu til mælinga á þörungaeitri í kræklingi.
+Fyrirtækið VeroMara heldur úti viðurkenndum þjónustumælingum fyrir skelfiskræktendur og fiskeldisfyrirtæki. Fyrirtækið er hluti af GlycoMar Limited og er til húsa í the European Centre of Marince Biotechnology í Oban í Skotlandi. Megin styrkur og áherslur fyrirtækisins liggja í rannsóknum í sjávarlíftækni, greiningum á skelfiskeitri og mælingum á ATP-asa virkni í tálknum fiska.</description>
+        
+        
+        <media:content url="/images/frettamyndir/frettVeroMara.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BioPol ehf. skrifar undir samning við Jellett Ltd. í Kanada.</title>
+        <link>/ko/en/frettir/jellet-biopol/</link>
+        <pubDate>Fri, 03 Jun 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 03 Jun 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/jellet-biopol/</guid>
+        <description>BioPol ehf. hefur skrifað undir samning við fyrirtækið Jellett Ltd. í Kanada sem miðar að rannsóknum, sölu og dreifingu á svo kölluðum Rapid Tests sem nota má til greininga á þörungaeitri í skelfiski og sjósýnum. Prófin, sem eru einskonar óléttupróf, eru hliðlæg ónæmispróf (Lateral Flow Immunoassay) sem hafa verið hönnuð með það fyrir augum að vera ódýr, einföld í notkun og gefa skjóta niðurstöðu.
+Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsóknastofur hafi getað sparað umtalsverða peninga með notkun þeirra og fækkað músadrápi um allt að 60%.</description>
+        
+        
+        <media:content url="/images/frettamyndir/BJ2011.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BioPol tekur þátt í NPP verkefni</title>
+        <link>/ko/en/frettir/npp-biopol/</link>
+        <pubDate>Fri, 08 Apr 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 08 Apr 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/npp-biopol/</guid>
+        <description>Sjávarlíftæknisetrið BioPol ehf. á Skagaströnd var í vikunni formlega boðið að vera aðili að verkefninu NPP WATER sem styrkt er af Norðurslóðaáætlun ESB; NPP (Northern Periphery Programme). Verkefnið miðar að því að minnka þau neikvæðu áhrif sem blómi eitraðra svifþörunga getur haft á kræklingarækt og fiskeldi á jaðarsvæðum.
+Það var margt góðra gesta hjá starfsfólki BioPol ehf. í vikunni sem leið í tengslum við þáttöku í verkefninu. Dr. Robin Raine frá Martin Ryan Institute National University of Ireland, verkefnisstjóri NPP WATER, og þeir Dr.</description>
+        
+        
+        <media:content url="/images/frettamyndir/NPP.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Gestur frá Vero Mara Ltd. í Skotlandi hjá BioPol ehf</title>
+        <link>/ko/en/frettir/veromaragestur/</link>
+        <pubDate>Fri, 25 Mar 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 25 Mar 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/veromaragestur/</guid>
+        <description>Starfsfólk BioPol ehf fékk góðan gest í vikunni. Charlie Bavington framkvæmdastjóri VeroMara í Skotlandi var á Skagaströnd alla síðustu viku til þess að kynna starfsfólki BioPol mismunandi aðferðir við mælingar á þörungaeitri í skelfiski.
+Á undanförnum misserum hefur starfsfólk BioPol verið að kynna sér fljótvirkar aðferðir við að mæla mismunandi þörungaeitur í skelfiski. Gert er ráð fyrir að í apríl fari af stað umfangsmikið verkefni sem miðar að því að bera saman fjölda eiturþörunga í sjó og magn þörungaeiturs í skelfiski.</description>
+        
+        
+        <media:content url="/images/frettamyndir/VeroMaraGestur.JPEG" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Grásleppuvertíðin hafin</title>
+        <link>/ko/en/frettir/grslvert/</link>
+        <pubDate>Thu, 10 Mar 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 10 Mar 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/grslvert/</guid>
+        <description>Í dag 10. mars er handhöfum grásleppuleyfa heimilt að leggja net sín víðast hvar um landið. Ekki er þó líklegt að margir hafi farið af stað til að leggja þar sem veðurlag er ekki hagstætt til sjóferða.
+Starfsfólk BioPol hefur, líkt og grásleppusjómenn, að undanförnu verið að undirbúa sig fyrir komandi grásleppuvertíð. Í ár er áætlað að framkvæma umfangsmiklar lengdarmælingar á hrognkelsum ásamt því að merkja um 2.000 fiska. Lögð verður áhersla á að framkvæma merkingar sem mest í lok vertíðar til þess að auka líkur á endurheimtum á milli ára.</description>
+        
+        
+        <media:content url="/images/frettamyndir/Baujur.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Laus staða hjá BioPol ehf.</title>
+        <link>/ko/en/frettir/lauststarf2011/</link>
+        <pubDate>Mon, 07 Mar 2011 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 07 Mar 2011 12:00:06 +0900</atom:modified>
+        <guid>/ko/en/frettir/lauststarf2011/</guid>
+        <description>Sérfræðingur á sviði líftækni eða líffræði
+BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum, dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði. Starfsstöð umsækjanda verður á Skagaströnd.</description>
+        
+        
+        <media:content url="/images/frettamyndir/visindi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -14,7 +14,7 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 05 Oct 2011 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2012 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,30 @@
 
       
       <item>
-        <title>shortcode</title>
-        <link>/is/tags/shortcode/</link>
+        <title>rannsóknir</title>
+        <link>/is/tags/ranns%C3%B3knir/</link>
+        <pubDate>Fri, 13 Jan 2012 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/ranns%C3%B3knir/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>samstarf</title>
+        <link>/is/tags/samstarf/</link>
         <pubDate>Wed, 05 Oct 2011 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
         
-        <guid>/is/tags/shortcode/</guid>
+        <guid>/is/tags/samstarf/</guid>
         <description></description>
         
         

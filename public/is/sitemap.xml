@@ -63,18 +63,8 @@
   </url>
   
   <url>
-    <loc>/is/is/</loc>
-    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/is/utgafa/</loc>
-    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/is/</loc>
-    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
+    <lastmod>2020-01-20T15:43:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -137,11 +127,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="is"
                 href="/is/archive/"
                 />
@@ -149,7 +134,7 @@
   
   <url>
     <loc>/is/frettir/</loc>
-    <lastmod>2011-10-05T12:00:06+09:00</lastmod>
+    <lastmod>2012-01-13T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -163,38 +148,18 @@
   </url>
   
   <url>
-    <loc>/is/frettir/sarahforoyar/</loc>
-    <lastmod>2011-10-05T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/frettir/sarahforoyar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/frettir/sarahforoyar/"
-                />
+    <loc>/is/frettir/ufsikeldur/</loc>
+    <lastmod>2012-01-13T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/is/tags/shortcode/</loc>
-    <lastmod>2011-10-05T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/tags/shortcode/"
-                />
+    <loc>/is/tags/ranns%C3%B3knir/</loc>
+    <lastmod>2012-01-13T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>/is/tags/</loc>
-    <lastmod>2011-10-05T12:00:06+09:00</lastmod>
+    <lastmod>2012-01-13T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -209,6 +174,26 @@
                 rel="alternate"
                 hreflang="is"
                 href="/is/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/is/tags/samstarf/</loc>
+    <lastmod>2011-10-05T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/sarahforoyar/</loc>
+    <lastmod>2011-10-05T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/frettir/sarahforoyar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/frettir/sarahforoyar/"
                 />
   </url>
   

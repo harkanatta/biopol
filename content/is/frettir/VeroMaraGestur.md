@@ -1,5 +1,6 @@
 ---
 date: "2011-03-25T12:00:06+09:00"
+Author: Bjarni Jónasson
 description: Starfsfólk BioPol ehf fékk góðan gest í vikunni. Charlie Bavington framkvæmdastjóri VeroMara í Skotlandi var á Skagaströnd alla síðustu viku til þess að kynna starfsfólki BioPol mismunandi aðferðir við mælingar á þörungaeitri í skelfiski. Á undanförnum misserum hefur starfsfólk BioPol verið að kynna sér fljótvirkar aðferðir...
 draft: false
 enableToc: false

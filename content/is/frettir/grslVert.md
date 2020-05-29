@@ -1,4 +1,5 @@
 ---
+Author: Bjarni Jónasson
 date: "2011-03-10T12:00:06+09:00"
 description: Í dag 10. mars er handhöfum grásleppuleyfa heimilt að leggja net sín víðast hvar um landið. Ekki er þó líklegt að margir hafi farið af stað til að leggja þar sem veðurlag er ekki hagstætt til sjóferða. Starfsfólk BioPol hefur, líkt og grásleppusjómenn, að undanförnu...
 draft: false

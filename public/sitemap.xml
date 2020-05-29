@@ -2,9 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
+	   	<loc>/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2020-02-10T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>/is/sitemap.xml</loc>
 		
-	   	<lastmod>2020-05-13T08:47:41+00:00</lastmod>
+	   	<lastmod>2020-01-20T15:43:38+09:00</lastmod>
 		
 	</sitemap>
 	
@@ -12,13 +19,6 @@
 	   	<loc>/en/sitemap.xml</loc>
 		
 	   	<lastmod>2020-03-05T14:08:48+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/ko/sitemap.xml</loc>
-		
-	   	<lastmod>2019-10-19T11:44:14+09:00</lastmod>
 		
 	</sitemap>
 	

@@ -105,6 +105,16 @@
   <url>
     <loc>/en/post/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
   </url>
   
   <url>
@@ -132,8 +142,8 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="is"
-                href="/is/tags/shortcode/"
+                hreflang="ko"
+                href="/ko/tags/shortcode/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -220,16 +230,46 @@
   <url>
     <loc>/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/css/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/html/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/markdown/"
+                />
   </url>
   
   <url>
@@ -260,26 +300,76 @@
   <url>
     <loc>/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/syntax/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/themes/"
+                />
   </url>
   
   <url>
     <loc>/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/themes/"
+                />
   </url>
   
   <url>
     <loc>/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/themes-guide/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/privacy/"
+                />
   </url>
   
   <url>
@@ -290,16 +380,46 @@
   <url>
     <loc>/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/shortcodes/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/hugo/"
+                />
   </url>
   
   <url>
     <loc>/en/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/hugo/"
+                />
   </url>
   
   <url>
@@ -315,16 +435,46 @@
   <url>
     <loc>/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/amoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/amoji/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/bamoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/bamoji/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/emoji/"
+                />
   </url>
   
   <url>
@@ -335,16 +485,46 @@
   <url>
     <loc>/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/gamoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/gamoji/"
+                />
   </url>
   
   <url>
     <loc>/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/namoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/namoji/"
+                />
   </url>
   
   <url>
     <loc>/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/categories/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/diagram/"
+                />
   </url>
   
   <url>
@@ -370,6 +550,16 @@
   <url>
     <loc>/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/diagram/"
+                />
   </url>
   
   <url>
@@ -380,6 +570,16 @@
   <url>
     <loc>/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/categories/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/math/"
+                />
   </url>
   
   <url>
@@ -400,46 +600,16 @@
   <url>
     <loc>/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/cartoon/"
-                />
   </url>
   
   <url>
     <loc>/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/"
-                />
   </url>
   
   <url>
     <loc>/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/photo/"
-                />
   </url>
   
   <url>
@@ -449,11 +619,6 @@
                 rel="alternate"
                 hreflang="is"
                 href="/is/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"

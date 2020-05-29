@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>rannsóknir on Vefsvæði BioPol</title>
+    <link>/is/tags/ranns%C3%B3knir/</link>
+    <description>Recent content in rannsóknir on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 13 Jan 2012 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/ranns%C3%B3knir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Rannsókn á bandormssýkingu í ufsa</title>
+        <link>/is/frettir/ufsikeldur/</link>
+        <pubDate>Fri, 13 Jan 2012 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 13 Jan 2012 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/ufsikeldur/</guid>
+        <description>Árið 2011 veitti Verkefnasjóður Sjávarútvegsins á samkeppnissviði BioPol ehf, Tilraunastöð Háskóla Íslands í Meinafræði að Keldum og Fisk Seafood fjármuni til þess að rannsaka bandormssýkingu í ufsa við strendur landsins.
+Ánægjulegt er að segja frá því að upphaf verkefnisins má rekja til þess að sjómenn á frystitogaranum Arnari HU 1 frá Skagaströnd urðu varir við breytingu í ástandi á ufsa sem veiddur var á ákveðnum svæðum við Ísland. Starfsfólki BioPol bárust sýnishorn af sýktum fiski og í framhaldi af því var haft samband við Árna Kristmundsson sérfæðing í sjúkdómum fiska af Tilraunastöðinni að Keldum.</description>
+        
+        <dc:creator>Bjarni Jónasson</dc:creator>
+        <media:content url="/images/frettamyndir/rannsokn_a_bandormssykingu_i_ufsa/DSC00603_0.jfif" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rannsóknir</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

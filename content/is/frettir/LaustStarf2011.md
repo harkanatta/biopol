@@ -1,4 +1,5 @@
 ---
+Author: Bjarni Jónasson
 date: "2011-03-07T12:00:06+09:00"
 description: BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og...
 draft: false

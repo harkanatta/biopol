@@ -14,13 +14,46 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 05 Oct 2011 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2012 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/frettir/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Rannsókn á bandormssýkingu í ufsa</title>
+        <link>/is/frettir/ufsikeldur/</link>
+        <pubDate>Fri, 13 Jan 2012 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 13 Jan 2012 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/ufsikeldur/</guid>
+        <description>Árið 2011 veitti Verkefnasjóður Sjávarútvegsins á samkeppnissviði BioPol ehf, Tilraunastöð Háskóla Íslands í Meinafræði að Keldum og Fisk Seafood fjármuni til þess að rannsaka bandormssýkingu í ufsa við strendur landsins.
+Ánægjulegt er að segja frá því að upphaf verkefnisins má rekja til þess að sjómenn á frystitogaranum Arnari HU 1 frá Skagaströnd urðu varir við breytingu í ástandi á ufsa sem veiddur var á ákveðnum svæðum við Ísland. Starfsfólki BioPol bárust sýnishorn af sýktum fiski og í framhaldi af því var haft samband við Árna Kristmundsson sérfæðing í sjúkdómum fiska af Tilraunastöðinni að Keldum.</description>
+        
+        <dc:creator>Bjarni Jónasson</dc:creator>
+        <media:content url="/images/frettamyndir/rannsokn_a_bandormssykingu_i_ufsa/DSC00603_0.jfif" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rannsóknir</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Samstarf við Færeyinga</title>
@@ -32,14 +65,14 @@
         <description>BioPol ehf. hefur á síðustu tveimur árum staðið fyrir viðamiklum rannsóknum á lífræði, fæðuatferli og vistfræðilegum áhrifum skötusels á grunnslóð. Í tengslum við þær rannsóknir hafa byggst upp sambönd við erlendar stofnanir, þ.m.t. Hafrannsóknarstofnunina í Færeyjum. Á dögunum fór Sarah Nebel, líffræðingur og starfsmaður BioPol í heimsókn til Færeyja þar sem hún m.a. vann að aldursgreiningum á skötusel og ræddi hugmyndir um áframhaldandi samstarf og rannsóknir.
 Helstu markmið verkefnisins sem BioPol hefur unnið að er að afla þekkingar á lífsháttum, stofnsamsetningu og áhrifum skötusels á vistsamfélög á nýjum búsvæðum tegundarinnar við vestur- og norðurströnd Íslands.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/SarahHanna.GIF" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
-              <category>shortcode</category>
+              <category>samstarf</category>
             
           
         
@@ -65,7 +98,7 @@ Helstu markmið verkefnisins sem BioPol hefur unnið að er að afla þekkingar 
         <description>Línurnar voru settar út í lok júlí 2010 og á þeim tíma hefur vaxið á þeim mikið af skel, þær stærstu á bilinu 3-4 cm, sem þykir mjög gott. Næstu skref í ræktunarferlinu er að hreinsa skelina af línunum, stærðarflokka og koma skeljum í svokallaða ræktunarsokka. Með því næst hámarks nýting og afföll verða minni.
 Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur einkum verið að fylgjast með umhverfisþáttum og sjá um sýnatöku.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/skel.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -84,7 +117,7 @@ Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur e
         <description>Laus er til umsókna staða sérfræðings hjá BioPol ehf á Skagaströnd.
 BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum. dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði og leggja grunn að framleiðslu afurða.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/whoami/avatar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -102,7 +135,7 @@ BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri �
         <guid>/is/frettir/kasperhrognkelsi/</guid>
         <description>Jacob Kasper, starfsmaður BioPol ehf. og Hafrannsóknastofnunar Íslands, hélt þann 4. febrúar síðastliðinn, fyrirlestur á alþjóðlegum fundi um grásleppumál. Fundurinn, sem haldinn var í London, er árlegur viðburður og var nú haldinn í 23. skipti undir yfirskriftinni „Lumpfish Roe Matters“. Fundinn sóttu 30 manns frá 11 löndum og má þar nefna aðila frá hagsmunasamtökum sjómanna, hrognakaupmenn og heildsala. Jacob hélt fyrirlestur undir yfirskriftinni „Fisheries Summary: Lumpfish (Cyclopterus lumpus)“ og fjallaði hann m.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/frett03.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -121,7 +154,7 @@ BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri �
         <description>BioPol ehf. hefur skrifað undir samning við VeroMara í Skotlandi sem snýr m.a að kaupum á sérfræðiráðgjöf og aðstoð við uppbyggingu á rannsóknaraðstöðu til mælinga á þörungaeitri í kræklingi.
 Fyrirtækið VeroMara heldur úti viðurkenndum þjónustumælingum fyrir skelfiskræktendur og fiskeldisfyrirtæki. Fyrirtækið er hluti af GlycoMar Limited og er til húsa í the European Centre of Marince Biotechnology í Oban í Skotlandi. Megin styrkur og áherslur fyrirtækisins liggja í rannsóknum í sjávarlíftækni, greiningum á skelfiskeitri og mælingum á ATP-asa virkni í tálknum fiska.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/frettVeroMara.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -140,7 +173,7 @@ Fyrirtækið VeroMara heldur úti viðurkenndum þjónustumælingum fyrir skelfi
         <description>BioPol ehf. hefur skrifað undir samning við fyrirtækið Jellett Ltd. í Kanada sem miðar að rannsóknum, sölu og dreifingu á svo kölluðum Rapid Tests sem nota má til greininga á þörungaeitri í skelfiski og sjósýnum. Prófin, sem eru einskonar óléttupróf, eru hliðlæg ónæmispróf (Lateral Flow Immunoassay) sem hafa verið hönnuð með það fyrir augum að vera ódýr, einföld í notkun og gefa skjóta niðurstöðu.
 Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsóknastofur hafi getað sparað umtalsverða peninga með notkun þeirra og fækkað músadrápi um allt að 60%.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/BJ2011.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -159,7 +192,7 @@ Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsókna
         <description>Sjávarlíftæknisetrið BioPol ehf. á Skagaströnd var í vikunni formlega boðið að vera aðili að verkefninu NPP WATER sem styrkt er af Norðurslóðaáætlun ESB; NPP (Northern Periphery Programme). Verkefnið miðar að því að minnka þau neikvæðu áhrif sem blómi eitraðra svifþörunga getur haft á kræklingarækt og fiskeldi á jaðarsvæðum.
 Það var margt góðra gesta hjá starfsfólki BioPol ehf. í vikunni sem leið í tengslum við þáttöku í verkefninu. Dr. Robin Raine frá Martin Ryan Institute National University of Ireland, verkefnisstjóri NPP WATER, og þeir Dr.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/NPP.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -178,7 +211,7 @@ Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsókna
         <description>Starfsfólk BioPol ehf fékk góðan gest í vikunni. Charlie Bavington framkvæmdastjóri VeroMara í Skotlandi var á Skagaströnd alla síðustu viku til þess að kynna starfsfólki BioPol mismunandi aðferðir við mælingar á þörungaeitri í skelfiski.
 Á undanförnum misserum hefur starfsfólk BioPol verið að kynna sér fljótvirkar aðferðir við að mæla mismunandi þörungaeitur í skelfiski. Gert er ráð fyrir að í apríl fari af stað umfangsmikið verkefni sem miðar að því að bera saman fjölda eiturþörunga í sjó og magn þörungaeiturs í skelfiski.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/VeroMaraGestur.JPEG" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -197,7 +230,7 @@ Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsókna
         <description>Í dag 10. mars er handhöfum grásleppuleyfa heimilt að leggja net sín víðast hvar um landið. Ekki er þó líklegt að margir hafi farið af stað til að leggja þar sem veðurlag er ekki hagstætt til sjóferða.
 Starfsfólk BioPol hefur, líkt og grásleppusjómenn, að undanförnu verið að undirbúa sig fyrir komandi grásleppuvertíð. Í ár er áætlað að framkvæma umfangsmiklar lengdarmælingar á hrognkelsum ásamt því að merkja um 2.000 fiska. Lögð verður áhersla á að framkvæma merkingar sem mest í lok vertíðar til þess að auka líkur á endurheimtum á milli ára.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/Baujur.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -216,7 +249,7 @@ Starfsfólk BioPol hefur, líkt og grásleppusjómenn, að undanförnu verið a�
         <description>Sérfræðingur á sviði líftækni eða líffræði
 BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum, dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði. Starfsstöð umsækjanda verður á Skagaströnd.</description>
         
-        
+        <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/visindi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>aflatölur on Vefsvæði BioPol</title>
+    <link>/is/tags/aflat%C3%B6lur/</link>
+    <description>Recent content in aflatölur on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 06 Oct 2014 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/aflat%C3%B6lur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Aflatölur aðgengilegar á síðunni</title>
+        <link>/is/frettir/aflatolur/</link>
+        <pubDate>Mon, 06 Oct 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 06 Oct 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/aflatolur/</guid>
+        <description>Ný síða hefur litið dagsins ljós hér á heimasíðunni okkar þar sem hægt er að virða fyrir sér myndrænt aflatölur frá Skagaströnd. Einnig er hægt að sjá samanburð á lönduðum afla milli hafna við Húnaflóa. Stærstur hluti aflatalnanna er frá árinu 2014 en eitt graf sýnir aflatölur á Skagaströnd frá árinu 2011 til 2014.
+Hægt er að fara inn á nýju síðuna með því að smella á efstu myndina (grafið) í dálknum hér til hægri, undir fyrirsögninni „Afli úr Húnaflóa“.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/chart-pie-solid.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>aflatölur</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,7 +1,13 @@
 ---
 Author: Bjarni Jónasson
 date: "2011-04-08T12:00:06+09:00"
-description: Sjávarlíftæknisetrið BioPol ehf. á Skagaströnd var í vikunni formlega boðið að vera aðili að verkefninu NPP WATER sem styrkt er af Norðurslóðaáætlun ESB; NPP (Northern Periphery Programme). Verkefnið miðar að því að minnka þau neikvæðu áhrif sem blómi eitraðra svifþörunga getur haft á kræklingarækt og...
+description: Sjávarlíftæknisetrið BioPol ehf. á Skagaströnd var í vikunni formlega boðið að vera aðili að verkefninu NPP WATER sem styrkt er af Norðurslóðaáætlun ESB; NPP (Northern Periphery Programme). Verkefnið miðar að...
+categories:
+- null
+series:
+- null
+tags:
+- samstarf
 draft: false
 enableToc: false
 enableTocContent: false

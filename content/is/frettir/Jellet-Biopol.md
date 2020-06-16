@@ -1,7 +1,13 @@
 ---
 Author: Bjarni Jónasson
 date: "2011-06-03T12:00:06+09:00"
-description: BioPol ehf. hefur skrifað undir samning við fyrirtækið Jellett Ltd. í Kanada sem miðar að rannsóknum, sölu og dreifingu á svo kölluðum Rapid Tests sem nota má til greininga á þörungaeitri í skelfiski og sjósýnum. Prófin, sem eru einskonar óléttupróf, eru hliðlæg ónæmispróf...
+categories:
+- null
+series:
+- null
+tags:
+- samstarf
+description: BioPol ehf. hefur skrifað undir samning við fyrirtækið Jellett Ltd. í Kanada sem miðar að rannsóknum, sölu og dreifingu á svo kölluðum Rapid Tests sem nota má til greininga á...
 draft: false
 enableToc: false
 enableTocContent: false

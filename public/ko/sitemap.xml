@@ -615,32 +615,4 @@
                 />
   </url>
   
-  <url>
-    <loc>/ko/is/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/is/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/is/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/is/utgafa/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/is/utgafa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/is/utgafa/"
-                />
-  </url>
-  
 </urlset>

@@ -7,7 +7,7 @@ series:
 - null
 tags:
 - rannsóknir
-description: Árið 2011 veitti Verkefnasjóður Sjávarútvegsins á samkeppnissviði  BioPol ehf, Tilraunastöð Háskóla Íslands í Meinafræði að Keldum og Fisk Seafood fjármuni til þess að rannsaka bandormssýkingu í ufsa við strendur landsins. Ánægjulegt er að segja frá því að upphaf verkefnisins má rekja til þess að sjómenn á frystitogaranum Arnari HU 1 frá Skagaströnd...
+description: Árið 2011 veitti Verkefnasjóður Sjávarútvegsins á samkeppnissviði  BioPol ehf, Tilraunastöð Háskóla Íslands í Meinafræði að Keldum og Fisk Seafood fjármuni til þess að rannsaka bandormssýkingu í ufsa við strendur...
 draft: false
 enableToc: false
 enableTocContent: false

@@ -14,7 +14,7 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 13 May 2020 08:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 21:13:42 +0900</lastBuildDate>
     
         <atom:link href="/is/index.xml" rel="self" type="application/rss+xml" />
     
@@ -150,6 +150,336 @@ Mynd: Stjórn BioPol ehf. við fundarstörf árið 2008     &#39;use strict&#39;
       </item>
       
       <item>
+        <title>Aflatölur aðgengilegar á síðunni</title>
+        <link>/is/frettir/aflatolur/</link>
+        <pubDate>Mon, 06 Oct 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 06 Oct 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/aflatolur/</guid>
+        <description>Ný síða hefur litið dagsins ljós hér á heimasíðunni okkar þar sem hægt er að virða fyrir sér myndrænt aflatölur frá Skagaströnd. Einnig er hægt að sjá samanburð á lönduðum afla milli hafna við Húnaflóa. Stærstur hluti aflatalnanna er frá árinu 2014 en eitt graf sýnir aflatölur á Skagaströnd frá árinu 2011 til 2014.
+Hægt er að fara inn á nýju síðuna með því að smella á efstu myndina (grafið) í dálknum hér til hægri, undir fyrirsögninni „Afli úr Húnaflóa“.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/chart-pie-solid.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>aflatölur</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Ný grein komin inn</title>
+        <link>/is/frettir/nygrein/</link>
+        <pubDate>Mon, 06 Oct 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 06 Oct 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nygrein/</guid>
+        <description>Ný grein Ný grein hefur nú bæst í safnið á síðunni, fersk úr prentsmiðjuni. Greinin birtist í tímaritinu ICES Journal of Marine Science og ber heitið „Movements of female lumpfish (Cyclopterus lumpus) around Iceland“. Höfundar hennar eru meðal annarra Dr. James Kennedy, starfsmaður Hafrannsóknarstofnunar með aðsetur hjá BioPol, og Halldór G. Ólafsson, framkvæmdastjóri BioPol. Þess má geta að þessi grein er sú fyrsta, af vonandi mörgum, sem birtist eftir James Kennedy síðan hann fluttist hingað til Skagastrandar.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/ICES_JOMS_cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rannsóknir</category>
+            
+          
+            
+              <category>hrognkelsi</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Nýtt efni á síðunni</title>
+        <link>/is/frettir/nyttefni/</link>
+        <pubDate>Wed, 24 Sep 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 24 Sep 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyttefni/</guid>
+        <description>Nýtt efni hefur nú bæst við síðuna en það má finna hér á síðunni undir heitinu „Útgefið efni“. Þar má finna ýmsar skýrslur sem starfsmenn BioPol hafa unnið að, greinar sem birst hafa í ritrýndum tímaritum ásamt fleiri ritum sem starfsmenn BioPol hafa á einn eða annan hátt komið að. Þessi nýja síða verður uppfærð reglulega eftir því sem nýtt efni verður til. Hægt er að fara inn á nýju síðuna með því að smella á „Útgefið efni“ í valmynd hér á síðunni.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/book-solid.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Heimsókn nemenda FNV</title>
+        <link>/is/frettir/fnvheimsokn/</link>
+        <pubDate>Thu, 27 Feb 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 27 Feb 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/fnvheimsokn/</guid>
+        <description>Í gær miðvikudaginn 26. febrúar fékk starfsfólk BioPol til sín góða gesti úr Fjölbrautarskóla Norðurlands vestra. Um var að ræða 35 nemendur sem á opnum dögum völdu að ferðast um sitt heimahérað og heimsækja fyrirtæki og stofnanir. Nemendurnir fengu almenna kynningu á starfsemi BioPol ehf á Skagaströnd og fengu síðan tækifæri til þess að ganga um skoða ýmislegt áhugavert á rannsóknastofu félagsins. Við hjá BioPol erum afar þakklát yfir að fá svona áhugasama gesti í heimsókn og teljum mjög mikilvægt fyrir fyrirtækið að fá tækifæri til að kynna starfsemi sína fyrir svona ungu og frambærilegu fólki.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/FNV.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Endurnýjun samstarfssamnings og formleg opnun rannsóknaaðstöðu</title>
+        <link>/is/frettir/samningur2014/</link>
+        <pubDate>Sat, 08 Feb 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sat, 08 Feb 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/samningur2014/</guid>
+        <description>Mikil ánægja hefur verið meðal forráða- og starfsmanna BioPol ehf með farsælt samstarf við Háskólann á Akureyri allt frá stofnu félagsins árið 2007 og hefur sú ánægja verið gagnkvæm. Í ljósi þess hefur nú verið gerður nýr samningur um áframhaldandi samstarf og fjallar hann einkum um rannsóknir og tækniþróun á sviði sjávarlíftækni, matvælafræði og tengdra sviða. Í því felst m.a. að skilgreina ný rannsóknaverkeni en helsti styrkleiki samstarfsins byggir á samlegð mismunandi sérfræðinga og meiri líkum á árangri með stærri rannsókna- og þróunarverkefnum.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/RektorOgFormadur.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>samstarf</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Starfsmaður boðinn velkominn</title>
+        <link>/is/frettir/nyrstarfsmk/</link>
+        <pubDate>Thu, 17 Oct 2013 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 17 Oct 2013 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyrstarfsmk/</guid>
+        <description>Stjórn og starfsfólk BioPol býður nýja starfsmann, Karin Zech, velkomna til starfa hjá félaginu. Karin er fædd í Þýskalandi en hefur undanfarin 7 ár starfað í Noregi. Karin er með gráðu í lífefnafræði og starfaði síðast við gæðastjórn og vöruþróun hjá Epax sem er stór lýsisframleiðandi í Noregi. Helstu áhugamál Karin eru gönguferðir, hestamennska og listmálun.
+Mynd:: Karin Zech er lífefnafræðingur sem hefur starfað um árabil í Noregi.   </description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/karin.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Nýr starfsmaður</title>
+        <link>/is/frettir/nyrstarfsm/</link>
+        <pubDate>Fri, 20 Sep 2013 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 20 Sep 2013 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyrstarfsm/</guid>
+        <description>Starfsfólk og stjórn BioPol ehf bjóða James Kennedy hjartanlega velkominn í hópinn. James er starfsmaður Hafrannsóknastofnunar en er vistaður hjá BioPol á Skagaströnd. Jim, eins og hann er kallaður, er skoti að uppruna og hefur doktorsgráðu frá háskólanum í Liverpool. Doktorsverkefnið fjallaði um fjósemi rauðsprettu í Írlandshafi. Jim hefur verið starfandi í Noregi hjá &amp;ldquo;Möreforsking Marin&amp;rdquo; frá árinu 2008 þar sem rannsóknir á grálúðu var hans meginsvið. Helstu áhugamál Jim eru ljósmyndun og fjallgöngur.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/jim.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hrognkelsamerkingar 2013</title>
+        <link>/is/frettir/hrognkelsamerkingar/</link>
+        <pubDate>Wed, 03 Apr 2013 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 03 Apr 2013 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/hrognkelsamerkingar/</guid>
+        <description>Hafrannsóknastofnun og BioPol ehf Sjávarlíftæknisetur á Skagaströnd eru nú með í gangi tvenns konar merkingartilraunir sem eins og fyrri ár treysta algerlega á samstarf við grásleppusjómenn.
+Merktir fiskar voru sprautaðir með efninu oxytetracyclin, sem litar beinvef sem getur nýst til að sannreyna aldurslestraraðferðir. Efnið er fúkkalyf og gerir fiskana og hrognin óhæfa til neyslu um tíma eftir merkingu. Þess vegna fara aðstandendur verkefnisins fram á það við sjómenn sem veiða merkta fiska að þeir komi þeim til BioPol eða Hafrannsóknastofnunar.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/merki_hrognkelsi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hrognkelsi</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BioPol ehf. hlýtur hvatningarverðlaun SSNV</title>
+        <link>/is/frettir/bphvatning/</link>
+        <pubDate>Fri, 07 Dec 2012 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 07 Dec 2012 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/bphvatning/</guid>
+        <description>Sjávarlíftæknisetrinu BioPol ehf á Skagaströnd var í vikunni sem leið veitt hvatningarverðlaun SSNV atvinnuþróunnar.
+Verðlaunin hafa verið veitt til fyrirtækja á Norðurlandi vestra frá árinu 1999 sem hvatning til áframhaldandi starfsemi og viðurkenning fyrir góðan árangur. Jafnframt er markmið verðlaunanna að hvetja til nýsköpunnar og þróunar og vekja athygli á því sem vel er gert á Norðurlandi vestra.
+Stjórn og starfsfólk fyrirtækisins vill koma á framfæri kærum þökkum og er ákaflega stolt af þessari viðurkenningu.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/hvatning.jfif" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BioPol ehf. í Feykisviðtali</title>
+        <link>/is/frettir/bpfeykir/</link>
+        <pubDate>Thu, 26 Jan 2012 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 26 Jan 2012 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/bpfeykir/</guid>
+        <description>Á dögunum kom blaðamaður Feykis í heimsókn til BioPol, forvitnaðist um starfsemi fyrirtækisins og ræddi við starfsfólk. Á næstunni mun Feykir birta greinar um helstu verkefni og rannsóknir fyrirtækisins og þannig gefa lesendum sínum tækifæri á að skyggnast inn í þann fjölbreytilega heim sem vísindasamfélagið á Norðurlandi Vestra svo sannarlega er.
+Mynd:: Frétt í Feyki   Í 3. tölublaði Feykis 2012 birtist fyrsta greinin en í henni var farið yfir rannsóknir BioPol ehf.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/FEYKIR.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Rannsókn á bandormssýkingu í ufsa</title>
         <link>/is/frettir/ufsikeldur/</link>
         <pubDate>Fri, 13 Jan 2012 12:00:06 +0900</pubDate>
@@ -230,7 +560,21 @@ Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur e
         
         
         
+          
+            
+              <category>rannsóknir</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -241,15 +585,28 @@ Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur e
         <author>halldor@biopol.is</author>
         <atom:modified>Thu, 14 Jul 2011 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/lausstada2011/</guid>
-        <description>Laus er til umsókna staða sérfræðings hjá BioPol ehf á Skagaströnd.
-BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum. dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði og leggja grunn að framleiðslu afurða.</description>
+        <description>Laus er til umsókna staða sérfræðings hjá BioPol ehf á Skagaströnd. BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum. dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði og leggja grunn að framleiðslu afurða.</description>
         
         <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/whoami/avatar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
+          
+            
+              <category>ýmislegt</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -267,7 +624,21 @@ BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri �
         
         
         
+          
+            
+              <category>ýmislegt</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -286,7 +657,21 @@ Fyrirtækið VeroMara heldur úti viðurkenndum þjónustumælingum fyrir skelfi
         
         
         
+          
+            
+              <category>samstarf</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -305,7 +690,21 @@ Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsókna
         
         
         
+          
+            
+              <category>samstarf</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -324,7 +723,21 @@ Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsókna
         
         
         
+          
+            
+              <category>samstarf</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -343,7 +756,21 @@ Prófin hafa gefið góða raun sem skimunarpróf og eru dæmi um að rannsókna
         
         
         
+          
+            
+              <category>ýmislegt</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -362,7 +789,25 @@ Starfsfólk BioPol hefur, líkt og grásleppusjómenn, að undanförnu verið a�
         
         
         
+          
+            
+              <category>hrognkelsi</category>
+            
+          
+            
+              <category>rannsóknir</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       
@@ -373,15 +818,28 @@ Starfsfólk BioPol hefur, líkt og grásleppusjómenn, að undanförnu verið a�
         <author>halldor@biopol.is</author>
         <atom:modified>Mon, 07 Mar 2011 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/lauststarf2011/</guid>
-        <description>Sérfræðingur á sviði líftækni eða líffræði
-BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum, dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði. Starfsstöð umsækjanda verður á Skagaströnd.</description>
+        <description>Sérfræðingur á sviði líftækni eða líffræði BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum, dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði. Starfsstöð umsækjanda verður á Skagaströnd.</description>
         
         <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/visindi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
+          
+            
+              <category>ýmislegt</category>
+            
+          
         
+        
+          
+            
+          
+        
+        
+          
+            
+          
         
       </item>
       

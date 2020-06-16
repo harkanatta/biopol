@@ -1,7 +1,13 @@
 ---
 Author: Bjarni Jónasson
 date: "2011-06-04T12:00:06+09:00"
-description: BioPol ehf. hefur skrifað undir samning við VeroMara í Skotlandi sem snýr m.a að kaupum á sérfræðiráðgjöf og aðstoð við uppbyggingu á rannsóknaraðstöðu til mælinga á þörungaeitri í kræklingi. Fyrirtækið VeroMara heldur úti...
+categories:
+- null
+series:
+- null
+tags:
+- samstarf
+description: BioPol ehf. hefur skrifað undir samning við VeroMara í Skotlandi sem snýr m.a að kaupum á sérfræðiráðgjöf og aðstoð við uppbyggingu á rannsóknaraðstöðu til mælinga á þörungaeitri í kræklingi. Fyrirtækið...
 draft: false
 enableToc: false
 enableTocContent: false

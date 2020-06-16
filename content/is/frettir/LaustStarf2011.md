@@ -1,6 +1,12 @@
 ---
 Author: Bjarni Jónasson
 date: "2011-03-07T12:00:06+09:00"
+categories:
+- null
+series:
+- null
+tags:
+- ýmislegt
 description: BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og...
 draft: false
 enableToc: false
@@ -9,7 +15,7 @@ image: images/frettamyndir/visindi.jpg
 title: Laus staða hjá BioPol ehf.
 ---
 
-Sérfræðingur á sviði líftækni eða líffræði
+# Sérfræðingur á sviði líftækni eða líffræði
 
 BioPol ehf., Sjávarlíftæknisetur á Skagaströnd og Háskólinn á Akureyri óska eftir að ráða sérfræðing á sviði líftækni, líffræði eða einstakling með sambærilega menntun. Umsækjanda er ætlað að stunda rannsóknir og kennslu á sviði sjávarlíftækni. Sérstaklega er horft til rannsókna á örverum, dýra- og plöntusvifi með hagnýtingu í huga. Einnig er viðkomandi ætlað að móta og byggja upp frekari rannsóknir á þessu sviði. Starfsstöð umsækjanda verður á Skagaströnd.
 

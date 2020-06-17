@@ -129,17 +129,12 @@
   
   <url>
     <loc>/is/tags/aflat%C3%B6lur/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/frettir/aflatolur/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
+    <lastmod>2014-12-02T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>/is/frettir/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
+    <lastmod>2014-12-02T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -153,23 +148,8 @@
   </url>
   
   <url>
-    <loc>/is/tags/hrognkelsi/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/frettir/nygrein/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/tags/ranns%C3%B3knir/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/is/tags/</loc>
-    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
+    <lastmod>2014-12-02T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -185,6 +165,36 @@
                 hreflang="is"
                 href="/is/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>/is/frettir/aflatolurb/</loc>
+    <lastmod>2014-12-02T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/nyargreinar/</loc>
+    <lastmod>2014-12-02T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/aflatolur/</loc>
+    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/hrognkelsi/</loc>
+    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/nygrein/</loc>
+    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/ranns%C3%B3knir/</loc>
+    <lastmod>2014-10-06T12:00:06+09:00</lastmod>
   </url>
   
   <url>

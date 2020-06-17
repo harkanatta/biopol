@@ -14,13 +14,77 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 06 Oct 2014 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2014 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/frettir/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Uppfærðar aflatölur</title>
+        <link>/is/frettir/aflatolurb/</link>
+        <pubDate>Tue, 02 Dec 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Tue, 02 Dec 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/aflatolurb/</guid>
+        <description>Aflatölur á Skagastrandarhöfn fyrir nóvembermánuð hafa nú verið færðar inn á síðuna. Magn landaðs afla var nokkuð svipað og í október, þó aðeins minna eða u.þ.b. 1.155 tonn. Ábending barst um hugsanlega villu í útreikningum og hefur hún verið leiðrétt, þ.e. samanburður á aflatölum það sem af er ári 2014 við fyrri ár reyndist ekki réttur. Á því er beðist velvirðingar. Hægt er að skoða aflatölurnar með því að smella hér eða smella á tengilinn &amp;ldquo;Afli&amp;rdquo; í valmynd hér á síðunni.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/whoami/avatar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>aflatölur</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Uppfærðar aflatölur</title>
+        <link>/is/frettir/nyargreinar/</link>
+        <pubDate>Tue, 02 Dec 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Tue, 02 Dec 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyargreinar/</guid>
+        <description>Aflatölur á Skagastrandarhöfn fyrir nóvembermánuð hafa nú verið færðar inn á síðuna. Magn landaðs afla var nokkuð svipað og í október, þó aðeins minna eða u.þ.b. 1.155 tonn. Ábending barst um hugsanlega villu í útreikningum og hefur hún verið leiðrétt, þ.e. samanburður á aflatölum það sem af er ári 2014 við fyrri ár reyndist ekki réttur. Á því er beðist velvirðingar. Hægt er að skoða aflatölurnar með því að smella hér eða smella á tengilinn &amp;ldquo;Afli&amp;rdquo; í valmynd hér á síðunni.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/whoami/avatar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>aflatölur</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Aflatölur aðgengilegar á síðunni</title>

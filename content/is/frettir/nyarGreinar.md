@@ -1,18 +1,30 @@
 ---
 Author: Halldór G. Ólafsson
-date: "2014-12-02T12:00:06+09:00"
-description: Aflatölur á Skagastrandarhöfn fyrir nóvembermánuð hafa nú verið færðar inn á síðuna. Magn landaðs afla var nokkuð svipað og í október, þó aðeins minna eða u.þ.b. 1.155 tonn. Ábending barst...
+date: "2014-12-17T12:00:06+09:00"
+description: Alltaf bætist í greinasafnið hjá okkur. Nú hafa þrjár nýjar greinar bæst í safnið en Bjarni Jónsson, fiskifræðingur, er meðhöfundur að þeim öllum. Bjarni hefur stundað rannsóknir á álum og...
 categories:
 - null
 series:
 - null
 tags:
-- aflatölur
+- rannsóknir
+- útgáfa
 draft: false
 enableToc: false
 enableTocContent: false
 image: images/whoami/avatar.jpg
-title: Uppfærðar aflatölur
+title: Nýjar greinar komnar í greinasafnið
 ---
 
-Aflatölur á Skagastrandarhöfn fyrir nóvembermánuð hafa nú verið færðar inn á síðuna. Magn landaðs afla var nokkuð svipað og í október, þó aðeins minna eða u.þ.b. 1.155 tonn. Ábending barst um hugsanlega villu í útreikningum og hefur hún verið leiðrétt, þ.e. samanburður á aflatölum það sem af er ári 2014 við fyrri ár reyndist ekki réttur. Á því er beðist velvirðingar. Hægt er að skoða aflatölurnar með því að smella hér eða smella á tengilinn "Afli" í valmynd hér á síðunni.
+Alltaf bætist í greinasafnið hjá okkur. Nú hafa þrjár nýjar greinar bæst í safnið en Bjarni Jónsson, fiskifræðingur, er meðhöfundur að þeim öllum. Bjarni hefur stundað rannsóknir á álum og hegðun þeirra. Greinarnar birtust í þremur mismunandi tímaritum, Heredity sem heyrir undir nature publishing group, BMC - Evolutionary Biology og Molecular Biology. Þær fjalla allar á einn eða annan hátt um rannsóknir á álum. Hægt er að hlaða niður greinunum með því að smella á titla þeirra hér að neðan.
+
+**Heredity:**
+[Assessing patterns of hybridization between North Atlantic eels using diagnostic single-nucleotide polymorphisms](https://github.com/harkanatta/biopol/raw/master/content/is/utgafa/efni/Assessing%20patterns%20of%20hybridization%20between%20North%20Atlantic%20eels%20using%20diagnostic%20single-nucleotide%20polymorphisms.pdf)
+
+**BMC - Evolutionary Biology:**
+[Do North Atlantic eels show parallel patterns of spatially varying selection](https://github.com/harkanatta/biopol/raw/master/content/is/utgafa/efni/Do%20North%20Atlantic%20eels%20show%20parallel%20patterns%20of%20spatially%20varying%20selection.pdf)
+
+**Molecular Biology:**
+[Genome-wide single-generation signatures of local selection in the panmictic European eel](https://github.com/harkanatta/biopol/raw/master/content/is/utgafa/efni/Genome-wide%20single-generation%20signatures%20of%20local%20selection%20in%20the%20panmictic%20European%20eel.pdf)
+
+Einnig er hægt að nálgast greinarnar með því að smella á hlekkinn „Útgáfa“ í valmynd á síðunni og finna þær á listanum.

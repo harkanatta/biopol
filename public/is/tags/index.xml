@@ -14,7 +14,7 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 02 Dec 2014 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 May 2016 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,66 @@
 
       
       <item>
+        <title>ýmislegt</title>
+        <link>/is/tags/%C3%BDmislegt/</link>
+        <pubDate>Thu, 19 May 2016 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/%C3%BDmislegt/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>útgáfa</title>
+        <link>/is/tags/%C3%BAtg%C3%A1fa/</link>
+        <pubDate>Thu, 30 Apr 2015 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/%C3%BAtg%C3%A1fa/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>aflatölur</title>
         <link>/is/tags/aflat%C3%B6lur/</link>
-        <pubDate>Tue, 02 Dec 2014 12:00:06 +0900</pubDate>
+        <pubDate>Wed, 29 Apr 2015 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
         
         <guid>/is/tags/aflat%C3%B6lur/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rannsóknir</title>
+        <link>/is/tags/ranns%C3%B3knir/</link>
+        <pubDate>Wed, 17 Dec 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/ranns%C3%B3knir/</guid>
         <description></description>
         
         
@@ -47,42 +101,6 @@
         <author>halldor@biopol.is</author>
         
         <guid>/is/tags/hrognkelsi/</guid>
-        <description></description>
-        
-        
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>rannsóknir</title>
-        <link>/is/tags/ranns%C3%B3knir/</link>
-        <pubDate>Mon, 06 Oct 2014 12:00:06 +0900</pubDate>
-        <author>halldor@biopol.is</author>
-        
-        <guid>/is/tags/ranns%C3%B3knir/</guid>
-        <description></description>
-        
-        
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>ýmislegt</title>
-        <link>/is/tags/%C3%BDmislegt/</link>
-        <pubDate>Wed, 24 Sep 2014 12:00:06 +0900</pubDate>
-        <author>halldor@biopol.is</author>
-        
-        <guid>/is/tags/%C3%BDmislegt/</guid>
         <description></description>
         
         

@@ -14,13 +14,49 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 06 Oct 2014 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2014 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/tags/ranns%C3%B3knir/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Nýjar greinar komnar í greinasafnið</title>
+        <link>/is/frettir/nyargreinar/</link>
+        <pubDate>Wed, 17 Dec 2014 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 17 Dec 2014 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyargreinar/</guid>
+        <description>Alltaf bætist í greinasafnið hjá okkur. Nú hafa þrjár nýjar greinar bæst í safnið en Bjarni Jónsson, fiskifræðingur, er meðhöfundur að þeim öllum. Bjarni hefur stundað rannsóknir á álum og hegðun þeirra. Greinarnar birtust í þremur mismunandi tímaritum, Heredity sem heyrir undir nature publishing group, BMC - Evolutionary Biology og Molecular Biology. Þær fjalla allar á einn eða annan hátt um rannsóknir á álum. Hægt er að hlaða niður greinunum með því að smella á titla þeirra hér að neðan.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/whoami/avatar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rannsóknir</category>
+            
+          
+            
+              <category>útgáfa</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Ný grein komin inn</title>

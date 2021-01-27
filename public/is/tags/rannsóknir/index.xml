@@ -14,13 +14,50 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 17 Dec 2014 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/tags/ranns%C3%B3knir/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Skötuselsmerkingar</title>
+        <link>/is/frettir/skotuselsmerkingar/</link>
+        <pubDate>Wed, 09 Aug 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 09 Aug 2017 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/skotuselsmerkingar/</guid>
+        <description>Starfsmenn Biopol framkvæmdu rannsóknir á fæðu skötusels á árunum 2010-2011. Í kjölfarið vöknuðu spurningar um árstíðabundið far skötusels og var því ráðist í merkingar á þeim 2013.
+Mynd 1::Rannsóknir BioPol á fæðu skötusels frá 2010-2011. Bjarni Jónasson, fyrrv. starfsmaður með vænan skötusel á rannsóknastofu BioPol og lítið meltir rauðmagar úr maga skötuselsins.Skötuselur (Lophius piscatorius) er botnfiskur sem tilheyrir ættbálki kjaftagelgja (Lophiiformes). Þennan fisk höfðu íslendingar aðeins fengið sem meðafla á humarveiðum úti fyrir Höfn í Hornafirði á árum áður.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/skotuselur/merkingar.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rannsóknir</category>
+            
+          
+            
+              <category>skötuselur</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Nýjar greinar komnar í greinasafnið</title>
@@ -135,7 +172,7 @@
         <atom:modified>Fri, 02 Sep 2011 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/skelhvammst/</guid>
         <description>Línurnar voru settar út í lok júlí 2010 og á þeim tíma hefur vaxið á þeim mikið af skel, þær stærstu á bilinu 3-4 cm, sem þykir mjög gott. Næstu skref í ræktunarferlinu er að hreinsa skelina af línunum, stærðarflokka og koma skeljum í svokallaða ræktunarsokka. Með því næst hámarks nýting og afföll verða minni.
-Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur einkum verið að fylgjast með umhverfisþáttum og sjá um sýnatöku.</description>
+Mynd::Ársgömul skel við Hvammstanga.Hlutverk BioPol í verkefninu hefur einkum verið að fylgjast með umhverfisþáttum og sjá um sýnatöku.</description>
         
         <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/skel.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>

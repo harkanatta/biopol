@@ -14,7 +14,7 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 14 Oct 2016 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>nemar</title>
-        <link>/is/tags/nemar/</link>
-        <pubDate>Fri, 14 Oct 2016 12:00:06 +0900</pubDate>
+        <title>ýmislegt</title>
+        <link>/is/tags/%C3%BDmislegt/</link>
+        <pubDate>Thu, 12 Oct 2017 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
         
-        <guid>/is/tags/nemar/</guid>
+        <guid>/is/tags/%C3%BDmislegt/</guid>
         <description></description>
         
         
@@ -43,7 +43,7 @@
       <item>
         <title>þörungar</title>
         <link>/is/tags/%C3%BE%C3%B6rungar/</link>
-        <pubDate>Fri, 09 Sep 2016 12:00:06 +0900</pubDate>
+        <pubDate>Thu, 12 Oct 2017 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
         
         <guid>/is/tags/%C3%BE%C3%B6rungar/</guid>
@@ -59,12 +59,84 @@
       </item>
       
       <item>
-        <title>ýmislegt</title>
-        <link>/is/tags/%C3%BDmislegt/</link>
-        <pubDate>Thu, 19 May 2016 12:00:06 +0900</pubDate>
+        <title>tilkynningar</title>
+        <link>/is/tags/tilkynningar/</link>
+        <pubDate>Sun, 17 Sep 2017 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
         
-        <guid>/is/tags/%C3%BDmislegt/</guid>
+        <guid>/is/tags/tilkynningar/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>vörusmiðjan</title>
+        <link>/is/tags/v%C3%B6rusmi%C3%B0jan/</link>
+        <pubDate>Sun, 17 Sep 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/v%C3%B6rusmi%C3%B0jan/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rannsóknir</title>
+        <link>/is/tags/ranns%C3%B3knir/</link>
+        <pubDate>Wed, 09 Aug 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/ranns%C3%B3knir/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>skötuselur</title>
+        <link>/is/tags/sk%C3%B6tuselur/</link>
+        <pubDate>Wed, 09 Aug 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/sk%C3%B6tuselur/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>nemar</title>
+        <link>/is/tags/nemar/</link>
+        <pubDate>Fri, 31 Mar 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/is/tags/nemar/</guid>
         <description></description>
         
         
@@ -101,24 +173,6 @@
         <author>halldor@biopol.is</author>
         
         <guid>/is/tags/aflat%C3%B6lur/</guid>
-        <description></description>
-        
-        
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>rannsóknir</title>
-        <link>/is/tags/ranns%C3%B3knir/</link>
-        <pubDate>Wed, 17 Dec 2014 12:00:06 +0900</pubDate>
-        <author>halldor@biopol.is</author>
-        
-        <guid>/is/tags/ranns%C3%B3knir/</guid>
         <description></description>
         
         

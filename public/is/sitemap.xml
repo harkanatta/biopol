@@ -129,7 +129,7 @@
   
   <url>
     <loc>/is/frettir/</loc>
-    <lastmod>2016-10-17T12:00:06+09:00</lastmod>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -143,23 +143,8 @@
   </url>
   
   <url>
-    <loc>/is/frettir/augl_matarsmidjan/</loc>
-    <lastmod>2016-10-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/frettir/heidrunvorn/</loc>
-    <lastmod>2016-10-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/tags/nemar/</loc>
-    <lastmod>2016-10-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/is/tags/</loc>
-    <lastmod>2016-10-14T12:00:06+09:00</lastmod>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -178,22 +163,77 @@
   </url>
   
   <url>
+    <loc>/is/frettir/thorungablomi/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/%C3%BDmislegt/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/%C3%BE%C3%B6rungar/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/vorusm_tilkynning/</loc>
+    <lastmod>2017-09-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/tilkynningar/</loc>
+    <lastmod>2017-09-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/v%C3%B6rusmi%C3%B0jan/</loc>
+    <lastmod>2017-09-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/ranns%C3%B3knir/</loc>
+    <lastmod>2017-08-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/skotuselsmerkingar/</loc>
+    <lastmod>2017-08-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/sk%C3%B6tuselur/</loc>
+    <lastmod>2017-08-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/daniel_nemi/</loc>
+    <lastmod>2017-03-31T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/nemar/</loc>
+    <lastmod>2017-03-31T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/augl_matarsmidjan/</loc>
+    <lastmod>2016-10-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/heidrunvorn/</loc>
+    <lastmod>2016-10-14T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/is/frettir/vinnustofabettina/</loc>
     <lastmod>2016-09-09T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/is/tags/%C3%BE%C3%B6rungar/</loc>
-    <lastmod>2016-09-09T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/is/frettir/haskolalestin/</loc>
-    <lastmod>2016-05-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/tags/%C3%BDmislegt/</loc>
     <lastmod>2016-05-19T12:00:06+09:00</lastmod>
   </url>
   
@@ -234,11 +274,6 @@
   
   <url>
     <loc>/is/frettir/nyargreinar/</loc>
-    <lastmod>2014-12-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/tags/ranns%C3%B3knir/</loc>
     <lastmod>2014-12-17T12:00:06+09:00</lastmod>
   </url>
   
@@ -493,10 +528,6 @@
                 hreflang="is"
                 href="/is/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/is/frettir/daniel_nemi/</loc>
   </url>
   
   <url>

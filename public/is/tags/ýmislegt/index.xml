@@ -14,13 +14,50 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 19 May 2016 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/is/tags/%C3%BDmislegt/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Þörungablómi í Skagastrandarhöfn.</title>
+        <link>/is/frettir/thorungablomi/</link>
+        <pubDate>Thu, 12 Oct 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 12 Oct 2017 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/thorungablomi/</guid>
+        <description>Talsverður þörungablómi var í höfninni á Skagaströnd í gær. Sjórinn var rauðbrúnn á lit og gruggugur eins og sést á myndunum hér fyrir neðan. Eftir nánari athugun kom í ljós að hér voru á ferð skoruþörungar, hornþörungur sem hefur vísindaheitið Ceratium furca. Í Þörungatali Helga Hallgrímssonar er sagt frá því að skoruþörungar myndi einstaka sinnum mor og liti sjó; sé það kallað blóðsjór.
+Mynd 1::Þörungablómi (e. red tide) í höfninni á Skagaströnd 9.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/thorungablomi/RedTide.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+            
+              <category>þörungar</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Háskólalestin á Blönduósi</title>
@@ -127,7 +164,7 @@ Gestirnir fengu að taka upp úr búrinu hin harðgerari dýr (krabba og skrápd
         <atom:modified>Thu, 17 Oct 2013 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/nyrstarfsmk/</guid>
         <description>Stjórn og starfsfólk BioPol býður nýja starfsmann, Karin Zech, velkomna til starfa hjá félaginu. Karin er fædd í Þýskalandi en hefur undanfarin 7 ár starfað í Noregi. Karin er með gráðu í lífefnafræði og starfaði síðast við gæðastjórn og vöruþróun hjá Epax sem er stór lýsisframleiðandi í Noregi. Helstu áhugamál Karin eru gönguferðir, hestamennska og listmálun.
-Mynd:: Karin Zech er lífefnafræðingur sem hefur starfað um árabil í Noregi.   </description>
+Mynd::Karin Zech er lífefnafræðingur sem hefur starfað um árabil í Noregi.</description>
         
         <dc:creator>Halldór G. Ólafsson</dc:creator>
         <media:content url="/images/frettamyndir/karin.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -226,7 +263,7 @@ Stjórn og starfsfólk fyrirtækisins vill koma á framfæri kærum þökkum og 
         <atom:modified>Thu, 26 Jan 2012 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/bpfeykir/</guid>
         <description>Á dögunum kom blaðamaður Feykis í heimsókn til BioPol, forvitnaðist um starfsemi fyrirtækisins og ræddi við starfsfólk. Á næstunni mun Feykir birta greinar um helstu verkefni og rannsóknir fyrirtækisins og þannig gefa lesendum sínum tækifæri á að skyggnast inn í þann fjölbreytilega heim sem vísindasamfélagið á Norðurlandi Vestra svo sannarlega er.
-Mynd:: Frétt í Feyki   Í 3. tölublaði Feykis 2012 birtist fyrsta greinin en í henni var farið yfir rannsóknir BioPol ehf.</description>
+Mynd::Frétt í FeykiÍ 3. tölublaði Feykis 2012 birtist fyrsta greinin en í henni var farið yfir rannsóknir BioPol ehf.</description>
         
         <dc:creator>Halldór G. Ólafsson</dc:creator>
         <media:content url="/images/frettamyndir/FEYKIR.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>

@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Vefsvæði BioPol"
+title = "BioPol"
 theme = "hugo-theme-zzo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeURLS = true

@@ -122,16 +122,16 @@ Research Gate</description>
         <author>halldor@biopol.is</author>
         <atom:modified>Tue, 18 Jan 2011 21:13:42 +0900</atom:modified>
         <guid>/is/umokkur/stj%C3%B3rn/</guid>
-        <description>Sjávarlíftæknisetrið BioPol ehf var stofnað þann 5. júlí 2007 en hóf formlega starfsemi þann 1. september 2007.StjórnVarastjórnAdolf H. Berndsen formaður
+        <description>Sjávarlíftæknisetrið BioPol ehf var stofnað þann 5. júlí 2007 en hóf formlega starfsemi þann 1. september 2007. Stjórn Varastjórn  Adolf H. Berndsen formaður
 Hjörleifur Einarsson
 Rögnvaldur Ólafsson
 Sigríður Gestsdóttir
-Steindór R. HaraldssonGígja H. Óskarsdóttir
+Steindór R. Haraldsson  Gígja H. Óskarsdóttir
 Guðjón Guðjónsson
 Guðmundur Finnbogason
 Ingibergur Guðmundsson
-Magnús B. Jónsson
-Mynd:Stjórn BioPol ehf. við fundarstörf árið 2008&#39;use strict&#39;;var containerId = JSON.parse(&#34;\&#34;d94c3b43b0911a9f\&#34;&#34;);var containerElem = document.</description>
+Magnús B. Jónsson 
+Mynd: Stjórn BioPol ehf. við fundarstörf árið 2008     &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;9d66f22818f17cf1\&#34;&#34;); var containerElem = document.</description>
         
         <dc:creator>BioPol</dc:creator>
         <media:content url="/images/UmOkkur/mug-hot-solid.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -143,6 +143,38 @@ Mynd:Stjórn BioPol ehf. við fundarstörf árið 2008&#39;use strict&#39;
       </item>
       
       <item>
+        <title>Grjótkrabbi á Skagaströnd</title>
+        <link>/is/frettir/grjotkrabbi/</link>
+        <pubDate>Thu, 12 Oct 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 12 Oct 2017 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/grjotkrabbi/</guid>
+        <description>Grjótkrabbi (Cancer irroratus) fékkst í krabbagildru í Skagastrandarhöfn laugardaginn 14. október. Þetta var lítill karlkyns krabbi með 96 mm breiðan skjöld og vó 140 grömm. Tilraunaveiðar með krabbagildrur hafa staðið yfir á vegum BioPol síðastliðin tvö sumur í kringum Skagaströnd og ýmislegt veiðst í þær gildrur. Mest eru það þó ígulker, krossfiskar, trjónukrabbar og kuðungakrabbar en grjótkrabbinn lét ekki á sér kræla fyrr en gildru var komið fyrir í höfninni. Fregnir höfðu borist af grjótkrabba í Húnaflóa og tóm skel fannst í fjöru rétt norðan við Skagaströnd í ágúst.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/grjotkrabbi/Pt38jQwQ.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Þörungablómi í Skagastrandarhöfn.</title>
         <link>/is/frettir/thorungablomi/</link>
         <pubDate>Thu, 12 Oct 2017 12:00:06 +0900</pubDate>
@@ -150,7 +182,7 @@ Mynd:Stjórn BioPol ehf. við fundarstörf árið 2008&#39;use strict&#39;
         <atom:modified>Thu, 12 Oct 2017 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/thorungablomi/</guid>
         <description>Talsverður þörungablómi var í höfninni á Skagaströnd í gær. Sjórinn var rauðbrúnn á lit og gruggugur eins og sést á myndunum hér fyrir neðan. Eftir nánari athugun kom í ljós að hér voru á ferð skoruþörungar, hornþörungur sem hefur vísindaheitið Ceratium furca. Í Þörungatali Helga Hallgrímssonar er sagt frá því að skoruþörungar myndi einstaka sinnum mor og liti sjó; sé það kallað blóðsjór.
-Mynd 1::Þörungablómi (e. red tide) í höfninni á Skagaströnd 9.</description>
+Mynd 1:: Þörungablómi (e. red tide) í höfninni á Skagaströnd 9.</description>
         
         <dc:creator>Valtýr Sigurðsson</dc:creator>
         <media:content url="/images/frettamyndir/thorungablomi/RedTide.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -224,7 +256,7 @@ Leigugjaldi verður stillt í hóf þar sem markmiðið er að styðja smáframl
         <atom:modified>Wed, 09 Aug 2017 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/skotuselsmerkingar/</guid>
         <description>Starfsmenn Biopol framkvæmdu rannsóknir á fæðu skötusels á árunum 2010-2011. Í kjölfarið vöknuðu spurningar um árstíðabundið far skötusels og var því ráðist í merkingar á þeim 2013.
-Mynd 1::Rannsóknir BioPol á fæðu skötusels frá 2010-2011. Bjarni Jónasson, fyrrv. starfsmaður með vænan skötusel á rannsóknastofu BioPol og lítið meltir rauðmagar úr maga skötuselsins.Skötuselur (Lophius piscatorius) er botnfiskur sem tilheyrir ættbálki kjaftagelgja (Lophiiformes). Þennan fisk höfðu íslendingar aðeins fengið sem meðafla á humarveiðum úti fyrir Höfn í Hornafirði á árum áður.</description>
+Mynd 1:: Rannsóknir BioPol á fæðu skötusels frá 2010-2011. Bjarni Jónasson, fyrrv. starfsmaður með vænan skötusel á rannsóknastofu BioPol og lítið meltir rauðmagar úr maga skötuselsins.   Skötuselur (Lophius piscatorius) er botnfiskur sem tilheyrir ættbálki kjaftagelgja (Lophiiformes). Þennan fisk höfðu íslendingar aðeins fengið sem meðafla á humarveiðum úti fyrir Höfn í Hornafirði á árum áður.</description>
         
         <dc:creator>Valtýr Sigurðsson</dc:creator>
         <media:content url="/images/frettamyndir/skotuselur/merkingar.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -814,7 +846,7 @@ Hægt er að fara inn á nýju síðuna með því að smella á efstu myndina (
         <atom:modified>Thu, 17 Oct 2013 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/nyrstarfsmk/</guid>
         <description>Stjórn og starfsfólk BioPol býður nýja starfsmann, Karin Zech, velkomna til starfa hjá félaginu. Karin er fædd í Þýskalandi en hefur undanfarin 7 ár starfað í Noregi. Karin er með gráðu í lífefnafræði og starfaði síðast við gæðastjórn og vöruþróun hjá Epax sem er stór lýsisframleiðandi í Noregi. Helstu áhugamál Karin eru gönguferðir, hestamennska og listmálun.
-Mynd::Karin Zech er lífefnafræðingur sem hefur starfað um árabil í Noregi.</description>
+Mynd:: Karin Zech er lífefnafræðingur sem hefur starfað um árabil í Noregi.   </description>
         
         <dc:creator>Halldór G. Ólafsson</dc:creator>
         <media:content url="/images/frettamyndir/karin.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -946,7 +978,7 @@ Stjórn og starfsfólk fyrirtækisins vill koma á framfæri kærum þökkum og 
         <atom:modified>Thu, 26 Jan 2012 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/bpfeykir/</guid>
         <description>Á dögunum kom blaðamaður Feykis í heimsókn til BioPol, forvitnaðist um starfsemi fyrirtækisins og ræddi við starfsfólk. Á næstunni mun Feykir birta greinar um helstu verkefni og rannsóknir fyrirtækisins og þannig gefa lesendum sínum tækifæri á að skyggnast inn í þann fjölbreytilega heim sem vísindasamfélagið á Norðurlandi Vestra svo sannarlega er.
-Mynd::Frétt í FeykiÍ 3. tölublaði Feykis 2012 birtist fyrsta greinin en í henni var farið yfir rannsóknir BioPol ehf.</description>
+Mynd:: Frétt í Feyki   Í 3. tölublaði Feykis 2012 birtist fyrsta greinin en í henni var farið yfir rannsóknir BioPol ehf.</description>
         
         <dc:creator>Halldór G. Ólafsson</dc:creator>
         <media:content url="/images/frettamyndir/FEYKIR.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -1045,7 +1077,7 @@ Helstu markmið verkefnisins sem BioPol hefur unnið að er að afla þekkingar 
         <atom:modified>Fri, 02 Sep 2011 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/skelhvammst/</guid>
         <description>Línurnar voru settar út í lok júlí 2010 og á þeim tíma hefur vaxið á þeim mikið af skel, þær stærstu á bilinu 3-4 cm, sem þykir mjög gott. Næstu skref í ræktunarferlinu er að hreinsa skelina af línunum, stærðarflokka og koma skeljum í svokallaða ræktunarsokka. Með því næst hámarks nýting og afföll verða minni.
-Mynd::Ársgömul skel við Hvammstanga.Hlutverk BioPol í verkefninu hefur einkum verið að fylgjast með umhverfisþáttum og sjá um sýnatöku.</description>
+Mynd:: Ársgömul skel við Hvammstanga.   Hlutverk BioPol í verkefninu hefur einkum verið að fylgjast með umhverfisþáttum og sjá um sýnatöku.</description>
         
         <dc:creator>Bjarni Jónasson</dc:creator>
         <media:content url="/images/frettamyndir/skel.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>

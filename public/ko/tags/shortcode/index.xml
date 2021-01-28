@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>shortcode on Vefsvæði BioPol</title>
+    <title>shortcode on BioPol</title>
     <link>/ko/tags/shortcode/</link>
-    <description>Recent content in shortcode on Vefsvæði BioPol</description>
+    <description>Recent content in shortcode on BioPol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>halldor@biopol.is</managingEditor>
@@ -30,7 +30,7 @@
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
         <guid>/ko/en/frettir/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different code
-javajavascript1  System.out.println(&amp;#39;Hello World!&amp;#39;);   1  console.log(&amp;#39;Hello World!&amp;#39;);   &#39;use strict&#39;;var containerId = JSON.parse(&#34;\&#34;e3ccd48fd780d100\&#34;&#34;);var containerElem = document.getElementById(containerId);var codetabLinks = null;var codetabContents = null;var ids = [];if (containerElem) {codetabLinks = containerElem.</description>
+java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);    1  console.log(&amp;#39;Hello World!&amp;#39;);      &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;5e3e1fef0d7f9cac\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
         
         
         <media:content url="/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>

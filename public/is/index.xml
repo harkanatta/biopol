@@ -14,7 +14,7 @@
     <managingEditor>halldor@biopol.is</managingEditor>
     <webMaster>halldor@biopol.is</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 21:13:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 08:47:41 +0000</lastBuildDate>
     
         <atom:link href="/is/index.xml" rel="self" type="application/rss+xml" />
     
@@ -143,13 +143,50 @@ Mynd: Stjórn BioPol ehf. við fundarstörf árið 2008     &#39;use strict&#39;
       </item>
       
       <item>
+        <title>Um æxlun hrognkelsa. Dr. James Kennedy fær birta grein í vísindaritinu Polar Biology</title>
+        <link>/is/frettir/hrognkelsigrein/</link>
+        <pubDate>Fri, 02 Feb 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 02 Feb 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/hrognkelsigrein/</guid>
+        <description>Æxlun hrognkelsa er lítt þekkt og hafa BioPol og Hafró tekið sig saman um að reyna að skilja betur þessa heillandi fisktegund með því að taka sýni af grásleppuhrognum yfir nokkurra ára skeið. Grásleppa var fengin úr makrílleiðöngrum í júlí á milli Íslands og Grænlands og í Noregshafi. Að auki voru sýni tekin úr vor- og haustleiðöngrum Hafró og einnig úr afla grásleppuveiðimanna.
+Niðurstöður leiddu í ljós að þroskun eggjastokka grásleppu hefst fyrir júlímánuð og er yfirstandandi fram í mars þegar hrygning er þegar hafin.</description>
+        
+        <dc:creator>James Kennedy</dc:creator>
+        <media:content url="/images/frettamyndir/hrognkelsigrein/LumpfishCollagesmall.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>útgáfa</category>
+            
+          
+            
+              <category>grásleppa</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Grjótkrabbi á Skagaströnd</title>
         <link>/is/frettir/grjotkrabbi/</link>
         <pubDate>Thu, 12 Oct 2017 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
         <atom:modified>Thu, 12 Oct 2017 12:00:06 +0900</atom:modified>
         <guid>/is/frettir/grjotkrabbi/</guid>
-        <description>Grjótkrabbi (Cancer irroratus) fékkst í krabbagildru í Skagastrandarhöfn laugardaginn 14. október. Þetta var lítill karlkyns krabbi með 96 mm breiðan skjöld og vó 140 grömm. Tilraunaveiðar með krabbagildrur hafa staðið yfir á vegum BioPol síðastliðin tvö sumur í kringum Skagaströnd og ýmislegt veiðst í þær gildrur. Mest eru það þó ígulker, krossfiskar, trjónukrabbar og kuðungakrabbar en grjótkrabbinn lét ekki á sér kræla fyrr en gildru var komið fyrir í höfninni. Fregnir höfðu borist af grjótkrabba í Húnaflóa og tóm skel fannst í fjöru rétt norðan við Skagaströnd í ágúst.</description>
+        <description>Your browser does not support the video tag.Grjótkrabbi (Cancer irroratus) fékkst í krabbagildru í Skagastrandarhöfn laugardaginn 14. október. Þetta var lítill karlkyns krabbi með 96 mm breiðan skjöld og vó 140 grömm. Tilraunaveiðar með krabbagildrur hafa staðið yfir á vegum BioPol síðastliðin tvö sumur í kringum Skagaströnd og ýmislegt veiðst í þær gildrur. Mest eru það þó ígulker, krossfiskar, trjónukrabbar og kuðungakrabbar en grjótkrabbinn lét ekki á sér kræla fyrr en gildru var komið fyrir í höfninni.</description>
         
         <dc:creator>Valtýr Sigurðsson</dc:creator>
         <media:content url="/images/frettamyndir/grjotkrabbi/Pt38jQwQ.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -159,6 +196,14 @@ Mynd: Stjórn BioPol ehf. við fundarstörf árið 2008     &#39;use strict&#39;
           
             
               <category>ýmislegt</category>
+            
+          
+            
+              <category>vídjó</category>
+            
+          
+            
+              <category>mynskeið</category>
             
           
         
@@ -222,7 +267,7 @@ Mynd 1:: Þörungablómi (e. red tide) í höfninni á Skagaströnd 9.</descript
 Leigugjaldi verður stillt í hóf þar sem markmiðið er að styðja smáframleiðendur í að koma vöru sinni á markað og stuðla þannig að aukinni verðmætasköpun í heimabyggð.</description>
         
         <dc:creator>Halldór G. Ólafsson</dc:creator>
-        <media:content url="/images/frettamyndir/vorusm_tilkynning/orhildur.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/frettamyndir/vorusm_tilkynning/orhildurB.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -295,7 +340,7 @@ Mynd 1:: Rannsóknir BioPol á fæðu skötusels frá 2010-2011. Bjarni Jónasso
         <description>Daniel Liesner þýskur líffræðinemi sem dvaldi hjá BioPol ehf og vann undir handleiðslu Dr Bettinu Scholz varði fyrr í mánuðinum meistaravekefni sitt við Háskólann í Rostock í Þýskalandi. Daniel var á Skagaströnd og vann að verkefni sínu frá maí og fram í október 2016. Verkefnið sem ber titilinn „Chytridiomycosis in near coastal phytoplankton communities from the Baltic and Greenland Sea with special emphasis on the influence of abiotic factors on infection prevalence“ og fjallar um sýkingar af völdum sveppa á svifþörungum.</description>
         
         <dc:creator>Halldór G. Ólafsson</dc:creator>
-        <media:content url="/images/frettamyndir/Daniel/Daniel_0.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/frettamyndir/Daniel/Daniel_1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -447,7 +492,7 @@ Gestirnir fengu að taka upp úr búrinu hin harðgerari dýr (krabba og skrápd
       </item>
       
       <item>
-        <title>Víðförull rauðmagi með rafeindamerki</title>
+        <title>Ný vísindagrein fékkst birt í European Journal of Phycology</title>
         <link>/is/frettir/nygreinbett/</link>
         <pubDate>Thu, 30 Apr 2015 12:00:06 +0900</pubDate>
         <author>halldor@biopol.is</author>
@@ -1047,7 +1092,7 @@ Mynd:: Frétt í Feyki   Í 3. tölublaði Feykis 2012 birtist fyrsta greinin en
 Helstu markmið verkefnisins sem BioPol hefur unnið að er að afla þekkingar á lífsháttum, stofnsamsetningu og áhrifum skötusels á vistsamfélög á nýjum búsvæðum tegundarinnar við vestur- og norðurströnd Íslands.</description>
         
         <dc:creator>Bjarni Jónasson</dc:creator>
-        <media:content url="/images/frettamyndir/SarahHanna.GIF" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/frettamyndir/SarahHanna.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

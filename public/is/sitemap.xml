@@ -63,8 +63,38 @@
   </url>
   
   <url>
+    <loc>/is/is/</loc>
+    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/is/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/is/"
+                />
+  </url>
+  
+  <url>
+    <loc>/is/is/utgafa/</loc>
+    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/is/utgafa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/is/utgafa/"
+                />
+  </url>
+  
+  <url>
     <loc>/is/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <lastmod>2020-05-13T08:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,7 +159,7 @@
   
   <url>
     <loc>/is/frettir/</loc>
-    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+    <lastmod>2018-02-02T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -143,13 +173,13 @@
   </url>
   
   <url>
-    <loc>/is/frettir/grjotkrabbi/</loc>
-    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+    <loc>/is/tags/gr%C3%A1sleppa/</loc>
+    <lastmod>2018-02-02T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>/is/tags/</loc>
-    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+    <lastmod>2018-02-02T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -165,6 +195,31 @@
                 hreflang="is"
                 href="/is/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>/is/frettir/hrognkelsigrein/</loc>
+    <lastmod>2018-02-02T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/%C3%BAtg%C3%A1fa/</loc>
+    <lastmod>2018-02-02T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/frettir/grjotkrabbi/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/mynskei%C3%B0/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/is/tags/v%C3%ADdj%C3%B3/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -244,11 +299,6 @@
   
   <url>
     <loc>/is/frettir/nygreinbett/</loc>
-    <lastmod>2015-04-30T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/is/tags/%C3%BAtg%C3%A1fa/</loc>
     <lastmod>2015-04-30T12:00:06+09:00</lastmod>
   </url>
   

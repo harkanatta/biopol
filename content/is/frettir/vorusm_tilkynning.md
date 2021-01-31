@@ -12,7 +12,7 @@ description: Kynningarfundir vegna starfsemi Vörusmiðju BioPol á Skagaströnd
 draft: false
 enableToc: false
 enableTocContent: false
-image: images/frettamyndir/vorusm_tilkynning/orhildur.jpg
+image: images/frettamyndir/vorusm_tilkynning/orhildurB.jpg
 title: Kynningarfundir vegna Vörusmiðju BioPol
 ---
   

@@ -11,7 +11,7 @@ description: Daniel Liesner þýskur líffræðinemi sem dvaldi hjá BioPol ehf 
 draft: false
 enableToc: false
 enableTocContent: false
-image: images/frettamyndir/Daniel/Daniel_0.jpg
+image: images/frettamyndir/Daniel/Daniel_1.jpg
 title: Daniel Liesner varði meistaraverkefni sitt við Háskólann í Rostock í Þýskalandi
 ---
   

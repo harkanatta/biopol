@@ -12,7 +12,7 @@ draft: false
 enableToc: false
 enableTocContent: false
 image: images/frettamyndir/European Journal.jpg
-title: Víðförull rauðmagi með rafeindamerki
+title: Ný vísindagrein fékkst birt í European Journal of Phycology
 ---
 
 

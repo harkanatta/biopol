@@ -1,13 +1,14 @@
 ---
 Author: Halldór G. Ólafsson
 date: "2015-04-29T12:00:06+09:00"
-description: Aflatölur á Skagastrandarhöfn hafa verið uppfærðar fyrir janúar 2015 og færðar inn á heimasíðu BioPol ehf. Heildarafli í janúar 2015 var 263.075 kg á móti 278.799 kg í janúar 2014...
+description: Í ralli Hafrannsóknastofnunarinnar í mars í vor, nánar tiltekið um borð í Bjarna Sæmundssyni, voru fjórir rauðmagar merktir með rafeindamerki frá Stjörnu Odda og þeim sleppt aftur. Merki þessi safna...
 categories:
 - null
 series:
 - null
 tags:
-- aflatölur
+- rauðmagi
+- grásleppa
 draft: false
 enableToc: false
 enableTocContent: false

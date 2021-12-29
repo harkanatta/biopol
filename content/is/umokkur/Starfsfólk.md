@@ -19,10 +19,6 @@ Netfang: halldor@biopol.is
 Netfang: bettina@biopol.is
 [Research Gate](https://www.researchgate.net/profile/Bettina_Scholz)
 
-### Linda Kristjánsdóttir
-Rannsóknamaður
-Netfang: linda@biopol.is
-
 ### Valtýr Sigurðsson
 Líffræðingur MSc
 Netfang: valtyr@biopol.is
@@ -34,6 +30,14 @@ sími: 8636355
 Netfang: tota@biopol.is
 
 ### Jens Jakob Sigurðarson
-Efnaverkfræðingur
+Efnaverkfræðingur PhD
 Netfang: jens@biopol.is
 [Research Gate](https://www.researchgate.net/profile/Jens_Jakob_Sigurdarson)
+
+### Judith Maria Scheja
+Rannsóknamaður MSc
+Netfang: judith@biopol.is
+
+### Auðbjörg Ósk Guðjónsdóttir
+Sölumaður
+Netfang: abba@biopol.is

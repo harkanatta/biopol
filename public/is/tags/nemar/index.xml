@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>nemar on Vefsvæði BioPol</title>
+    <link>/is/tags/nemar/</link>
+    <description>Recent content in nemar on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 31 Mar 2017 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/nemar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Daniel Liesner varði meistaraverkefni sitt við Háskólann í Rostock í Þýskalandi</title>
+        <link>/is/frettir/daniel_nemi/</link>
+        <pubDate>Fri, 31 Mar 2017 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 31 Mar 2017 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/daniel_nemi/</guid>
+        <description>Daniel Liesner þýskur líffræðinemi sem dvaldi hjá BioPol ehf og vann undir handleiðslu Dr Bettinu Scholz varði fyrr í mánuðinum meistaravekefni sitt við Háskólann í Rostock í Þýskalandi. Daniel var á Skagaströnd og vann að verkefni sínu frá maí og fram í október 2016. Verkefnið sem ber titilinn „Chytridiomycosis in near coastal phytoplankton communities from the Baltic and Greenland Sea with special emphasis on the influence of abiotic factors on infection prevalence“ og fjallar um sýkingar af völdum sveppa á svifþörungum.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/Daniel/Daniel_1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>nemar</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Heiðrún Eiríksdóttir varði meistaraverkefni sitt við Auðlindadeild Háskólans á Akureyri</title>
+        <link>/is/frettir/heidrunvorn/</link>
+        <pubDate>Fri, 14 Oct 2016 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 14 Oct 2016 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/heidrunvorn/</guid>
+        <description>Heiðrún Eiríksdóttir fyrrum starfsmaður BioPol ehf á Skagaströnd, og nemandi við Auðlindadeild Háskólans á Akureyri, varði meistaraverkefni sitt þriðjudaginn 11. október. Heiðrún er fyrsti meistaraneminn sem útskrifast í kjölfar samstarfs BioPol ehf og Háskólans á Akureyri.
+Verkefni Heiðrúnar ber heitið „Cultivation of PUFAs producing Sicyoidochytrium minutum strain using by-products from agriculture“. Markmið verkefnisins var að athuga hvort Sicyoidochytrium minutum gætu nýtt sér aukaafurðir sem falla til í landbúnaði sem fæðu.</description>
+        
+        <dc:creator>Magnús Örn Stefánsson</dc:creator>
+        <media:content url="/images/frettamyndir/HeidrunVorn/HeidrunVorn.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>nemar</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>samfélag on Vefsvæði BioPol</title>
+    <link>/is/tags/samf%C3%A9lag/</link>
+    <description>Recent content in samfélag on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 31 May 2018 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/samf%C3%A9lag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Hreinsun strandlengjunnar / Beach clean-up day</title>
+        <link>/is/frettir/beachcleanup/</link>
+        <pubDate>Thu, 31 May 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 31 May 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/beachcleanup/</guid>
+        <description>Þann 29. maí fóru krakkarnir í fimm efstu bekkjum Höfðaskóla ásamt kennurum og fjórum starfsmönnum BioPol í stutta hreinsunarferð um strandlengjuna á Skagaströnd. Nemendum var skipt í þrjá hópa eftir aldri sem voru sendir á mismunandi staði.
+Sjö krakkar í tíunda bekk, einn kennari og tveir starfsmenn BioPol fóru til Kálfshamarsvíkur. Þar söfnuðu þau 90 kílóum af rusli eins og sjá má á ljósmynd 1 hér fyrir neðan.
+Krakkarnir í áttunda og níunda bekk (15 talsins), tveir kennarar og einn starfsmaður BioPol söfnuðu rusli meðfram strandlengjunni frá Vindhælisstapa og út eftir til Skagastrandar.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/beach/K%c3%a1lfshamarsv%c3%adk.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>skólaheimsókn</category>
+            
+          
+            
+              <category>samfélag</category>
+            
+          
+            
+              <category>Beach clean-up</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Gestir í Vörusmiðjunni</title>
+        <link>/is/frettir/gestirvorusmidjan/</link>
+        <pubDate>Mon, 12 Feb 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 12 Feb 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/gestirvorusmidjan/</guid>
+        <description>BioPol hefur fengið fjölda gleðilegra heimsókna í gegnum árin frá nemendum Höfðaskóla í tengslum við kennslu og til að fræðast um okkar störf. Þessa dagana er hefur skólakennslan í náttúrufræði snúist um þörunga, stóra og smáa en á því sviði erum við með nokkrar rannsóknir í gangi. Ýmsir smáþörungar voru hafðir til sýnis á rannsóknarstofunni og í því sambandi var sagt frá fæðuvefjum og flokkunarfræði og skoðað í smásjá hvernig grænukorn endurkasta rauðu ljósi undir flúrlýsingu.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/gestirvorusmidja/krakkar.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ýmislegt</category>
+            
+          
+            
+              <category>vörusmiðjan</category>
+            
+          
+            
+              <category>samfélag</category>
+            
+          
+            
+              <category>skólaheimsókn</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

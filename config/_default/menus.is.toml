@@ -24,13 +24,8 @@
     
 [[main]]
   parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+  name = "Myndir"
+  url = "gallery/frettamyndir"
 
 [[main]]
   identifier = "posts"

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>BioPol</title>
+    <link>/ko/en/</link>
+    <description>Recent content on BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 19 Jan 2022 10:20:16 +0900</lastBuildDate>
+    
+        <atom:link href="/ko/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Myndir</title>
+        <link>/ko/en/gallery/frettamyndir/</link>
+        <pubDate>Wed, 19 Jan 2022 10:20:16 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 19 Jan 2022 10:20:16 +0900</atom:modified>
+        <guid>/ko/en/gallery/frettamyndir/</guid>
+        <description>Myndir frá starfsemi BioPol</description>
+        
+        
+        <media:content url="/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Sources of Microplastics in Iceland</title>
+        <link>/ko/en/post/sources-of-microplastics-in-iceland/</link>
+        <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 10 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>/ko/en/post/sources-of-microplastics-in-iceland/</guid>
+        <description>The ministry of environment requested an estimate of microplastic pollution to Icelandic seas. The main goal was to obtain information about the main sources and pathways to be able to react with political action if necessary. A part of the goal was to write a overview on the state of knowledge about microplastics regarding the marine environment especially. The outcome was a report (in Icelandic).</description>
+        
+        <dc:creator>Valtýr</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Um okkur</title>
+        <link>/ko/en/umokkur/</link>
+        <pubDate>Sun, 19 Jan 2020 15:43:38 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sun, 19 Jan 2020 15:43:38 +0900</atom:modified>
+        <guid>/ko/en/umokkur/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Safn</title>
+        <link>/ko/en/archive/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
+        <guid>/ko/en/archive/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Posts</title>
+        <link>/ko/en/frettir/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>halldor@biopol.is</author>
+        
+        <guid>/ko/en/frettir/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

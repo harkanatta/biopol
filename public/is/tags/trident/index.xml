@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>trident on Vefsvæði BioPol</title>
+    <link>/is/tags/trident/</link>
+    <description>Recent content in trident on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 14 Oct 2019 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/trident/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Þari í austanverðum Húnaflóa (skýrsla)</title>
+        <link>/is/frettir/thari/</link>
+        <pubDate>Mon, 14 Oct 2019 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Mon, 14 Oct 2019 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/thari/</guid>
+        <description>Verkefnið ber heitið „Þarabreiður í Húnaflóa - Athugun á nýtingu á sjálfbæran hátt“ (hlekkur á skýrsluna) og er samstarfsverkefni BioPol og Náttúrustofu Norðurlands vestra. Verkefnið styrkti SSNV sem styður við uppbyggingu á atvinnustarfsemi á Norðurlandi vestra. Nokkrar þarabreiður voru myndaðar með neðansjávardróna sem fékkst fyrir styrkféð. Myndirnar geta nýst þeim sem hafa áhuga á nýtingu á þara eða jafnvel ígulkerjum sem nærast á þara og sjást því vel á myndskeiðunum. Myndefnið getur einnig nýst í tengslum við frekari rannsóknir á þarabreiðunum svo sem vaxtarhraða þara og samkeppni við afætur eða ásætur og mati á framlagi þara til kolefnisbindingar.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/thari_trident.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>þari</category>
+            
+          
+            
+              <category>ssnv</category>
+            
+          
+            
+              <category>Trident</category>
+            
+          
+            
+              <category>nnv</category>
+            
+          
+            
+              <category>skýrsla</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Nýjar myndir úr höfninni (myndskeið)</title>
+        <link>/is/frettir/nyrdroni/</link>
+        <pubDate>Thu, 16 Aug 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 16 Aug 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyrdroni/</guid>
+        <description>Nýjasti „starfskrafturinn“ hjá BioPol er kafbátur (neðansjávar flygildi) af gerðinni Trident frá OpenRov. Líklega munu eintök eins og þetta verða í hverri höfn innan skamms. Myndskeiðin eru tekin á eins til sjö metra dýpi og á þeim birtast nokkrar flyðrur og grjótkrabbi ásamt þorskfiskaseiðum og úrgangshrúgum sandorma.
+BioPol recently got an underwater drone, Trident from OpenRov. This handy equipment, suitable for both research and procreation will most likely be standard eqipment in the future.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/Trident_litil_0.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>myndskeið</category>
+            
+          
+            
+              <category>trident</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

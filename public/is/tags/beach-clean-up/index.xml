@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Beach clean-up on Vefsvæði BioPol</title>
+    <link>/is/tags/beach-clean-up/</link>
+    <description>Recent content in Beach clean-up on Vefsvæði BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 11 Jun 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/beach-clean-up/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Ospar strandhreinsun</title>
+        <link>/is/frettir/ospar15-05-20/</link>
+        <pubDate>Thu, 11 Jun 2020 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 11 Jun 2020 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/ospar15-05-20/</guid>
+        <description>Biopol heldur úti strandvöktun samkvæmt aðferðafræði og leiðbeiningum frá OSPAR (samningur um verndun hafrýmis Norðaustur-Atlantshafsins). Þetta er þriðja árið sem Biopol tekur þátt í verkefninu og vaktar ströndina á Víkum á Skaga. Ströndin í Víkum er ein af sex OSPAR ströndum hérlendis. Tilgangurinn með vöktuninni er að draga úr skaðsemi vegna mengunar á hafi og ströndum með því að finna út hvaðan rusl á ströndunum kemur, hversu hratt það safnast upp á ströndunum og fleira.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/ospar/IMG_6724.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ospar</category>
+            
+          
+            
+              <category>Beach clean-up</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hreinsun strandlengjunnar / Beach clean-up day</title>
+        <link>/is/frettir/beachcleanup/</link>
+        <pubDate>Thu, 31 May 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 31 May 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/beachcleanup/</guid>
+        <description>Þann 29. maí fóru krakkarnir í fimm efstu bekkjum Höfðaskóla ásamt kennurum og fjórum starfsmönnum BioPol í stutta hreinsunarferð um strandlengjuna á Skagaströnd. Nemendum var skipt í þrjá hópa eftir aldri sem voru sendir á mismunandi staði.
+Sjö krakkar í tíunda bekk, einn kennari og tveir starfsmenn BioPol fóru til Kálfshamarsvíkur. Þar söfnuðu þau 90 kílóum af rusli eins og sjá má á ljósmynd 1 hér fyrir neðan.
+Krakkarnir í áttunda og níunda bekk (15 talsins), tveir kennarar og einn starfsmaður BioPol söfnuðu rusli meðfram strandlengjunni frá Vindhælisstapa og út eftir til Skagastrandar.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/beach/K%c3%a1lfshamarsv%c3%adk.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>skólaheimsókn</category>
+            
+          
+            
+              <category>samfélag</category>
+            
+          
+            
+              <category>Beach clean-up</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

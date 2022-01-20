@@ -1,0 +1,2 @@
+x <- 'Biopol heldur úti strandvöktun samkvæmt aðferðafræði og leiðbeiningum frá OSPAR (samningur um verndun hafrýmis Norðaustur-Atlantshafsins). Þetta er þriðja árið sem Biopol tekur þátt í verkefninu og vaktar ströndina á Víkum á Skaga. Ströndin í Víkum er ein af sex OSPAR ströndum hérlendis. Tilgangurinn með vöktuninni er að draga úr skaðsemi vegna mengunar á hafi'
+ifelse(is.na(stringr::word(x, 1, 30)), x, stringr::word(x, 1, 30))

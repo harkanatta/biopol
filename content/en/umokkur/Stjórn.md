@@ -1,5 +1,5 @@
 ---
-title: "Stjórn félagsins"
+title: "The Board"
 date: 2011-01-18T21:13:42+09:00
 description: Stjórn BioPol ehf.
 weight: 4

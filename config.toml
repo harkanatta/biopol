@@ -1,4 +1,4 @@
-baseURL = "biopol.netlify.com/"
+baseURL = "/"
 title = "BioPol"
 theme = "hugo-theme-zzo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

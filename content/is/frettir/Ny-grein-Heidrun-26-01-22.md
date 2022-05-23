@@ -19,7 +19,7 @@ draft: false
 enableToc: false
 enableTocContent: false
 image: images/frettamyndir/HeidrunVorn/HeidrunVorn.jpg
-title: Ný grein um olímyndandi örverur og sláturhúsaúrgang
+title: Ný grein um olíumyndandi örverur og sláturhúsaúrgang
 ---
 
 

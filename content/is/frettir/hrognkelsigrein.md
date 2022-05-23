@@ -9,6 +9,7 @@ series:
 tags:
 - útgáfa
 - grásleppa
+- english below
 draft: false
 enableToc: false
 enableTocContent: false

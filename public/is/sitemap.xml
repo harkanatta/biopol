@@ -99,8 +99,39 @@
                 href="/is/gallery/frettamyndir/"
                 />
   </url><url>
+    <loc>/is/t%C3%B6g/bioplastics/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/t%C3%B6g/bl%C3%A1bakter%C3%ADur/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/t%C3%B6g/cyanobacteria/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/t%C3%B6g/english-below/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/loa-15-09-21/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/t%C3%B6g/phb/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/t%C3%B6g/poly-3-hydroxybutyrate/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/t%C3%B6g/</loc>
+    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/t%C3%B6g/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/t%C3%B6g/"
+                />
   </url><url>
     <loc>/is/frettir/nyr-starfsmadur-14-09-21/</loc>
     <lastmod>2021-09-14T12:00:06+09:00</lastmod>
@@ -333,18 +364,6 @@
                 rel="alternate"
                 hreflang="is"
                 href="/is/ser%C3%ADur/"
-                />
-  </url><url>
-    <loc>/is/t%C3%B6g/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/t%C3%B6g/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/t%C3%B6g/"
                 />
   </url><url>
     <loc>/is/utgafa/</loc>

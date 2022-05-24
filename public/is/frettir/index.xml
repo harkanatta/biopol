@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Fréttir on Vefsvæði BioPol</title>
+    <title>Fréttir on BioPol</title>
     <link>/is/frettir/</link>
-    <description>Recent content in Fréttir on Vefsvæði BioPol</description>
+    <description>Recent content in Fréttir on BioPol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>is</language>
     <managingEditor>halldor@biopol.is</managingEditor>
@@ -149,32 +149,6 @@ New seaweed project at BioPol funded by SSNV</description>
         <media:content url="/images/frettamyndir/Blabakteriur.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
-        
-          
-            
-              <category>blábakteríur</category>
-            
-          
-            
-              <category>cyanobacteria</category>
-            
-          
-            
-              <category>Poly-3-hydroxybutyrate</category>
-            
-          
-            
-              <category>PHB</category>
-            
-          
-            
-              <category>bioplastics</category>
-            
-          
-            
-              <category>english below</category>
-            
-          
         
         
           

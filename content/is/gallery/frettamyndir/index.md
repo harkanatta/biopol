@@ -7,4 +7,4 @@ title: Myndir
 type: gallery
 ---
 
-Myndir frá starfsemi BioPol
+Myndir úr fréttum BioPol í gegnum tíðina

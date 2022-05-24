@@ -1,7 +1,7 @@
 ---
 date: "2009-05-28"
 description: Saga fyrirtækisins
-title: Forsaga og upphaf
+title: Forsaga og upphaf (in Icelandic)
 weight: 2
 thumb: feature3/css3.png
 pinned: true

@@ -1,6 +1,6 @@
 ---
-title: Research
-date: 2020-01-19T21:13:42+09:00
+title: Research (in Icelandic)
+date: 2009-01-19T21:13:42+09:00
 description: Kjarnastarfsemi setursins byggist á rannsóknum á lífríki Húnaflóa. Markmið rannsóknanna beinast m.a. að möguleikum á nýtingu sjávarfangs sem ekki hefur haft skilgreind not eða eiginleikar ekki verið þekktir. Einnig beinist rannsóknarstarfið að umhverfisvöktun með sérstaka áherslu á að fylgjast með breytingum á lífríkinu, áhrifavöldum og afleiðingum.
 weight: 3
 pinned: true

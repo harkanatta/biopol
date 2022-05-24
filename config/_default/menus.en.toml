@@ -1,12 +1,12 @@
 [[main]]
   identifier = "about"
   name = "about"
-  url = "about"
+  url = "umokkur"
   weight = 1
   
 [[main]]
   identifier = "posts"
-  name = "posts"
+  name = "news"
   url = "posts"
   weight = 2
 
@@ -19,13 +19,9 @@
 [[main]]
   identifier = "gallery"
   name = "gallery"
-  url = "gallery"
+  url = "gallery/frettamyndir"
   weight = 4
     
-[[main]]
-  parent = "gallery"
-  name = "Photos"
-  url = "gallery/frettamyndir"
 
 [[main]]
   identifier = "publication"

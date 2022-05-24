@@ -1,6 +1,6 @@
 logoText = "BioPol"
 logoType = "short" # long, short
-description = "Vefsvæði BioPol"
+description = "BioPol"
 custom_css = ["scss/custom.scss"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

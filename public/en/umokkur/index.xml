@@ -23,32 +23,32 @@
 
       
       <item>
-        <title>Starfsfólk</title>
+        <title>Staff</title>
         <link>/en/umokkur/starfsf%C3%B3lk/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>halldor@biopol.is</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>/en/umokkur/starfsf%C3%B3lk/</guid>
-        <description>Halldór G. Ólafsson Framkvæmdastjóri
+        <description>Halldór G. Ólafsson Manager
 sími: 8967977
-Netfang: halldor@biopol.is
+email: halldor@biopol.is
 Research Gate
-Dr. Bettina Scholz Þörungasérfræðingur
-Netfang: bettina@biopol.is
+Dr. Bettina Scholz Biology PhD
+email: bettina@biopol.is
 Research Gate
-Valtýr Sigurðsson Líffræðingur MSc
-Netfang: valtyr@biopol.is
+Valtýr Sigurðsson Biology MSc
+email: valtyr@biopol.is
 Google Scholar
-Þórhildur María Jónsdóttir Umsjón Vörusmiðju
+Þórhildur María Jónsdóttir Director of Vörusmiðja
 sími: 8636355
-Netfang: tota@biopol.is
-Jens Jakob Sigurðarson Efnaverkfræðingur PhD
-Netfang: jens@biopol.is
+email: tota@biopol.is
+Jens Jakob Sigurðarson Engineer PhD
+email: jens@biopol.is
 Research Gate
-Judith Maria Scheja Rannsóknamaður MSc
-Netfang: judith@biopol.is
-Auðbjörg Ósk Guðjónsdóttir Sölumaður
-Netfang: abba@biopol.is</description>
+Judith Maria Scheja Research MSc
+email: judith@biopol.is
+Auðbjörg Ósk Guðjónsdóttir Sales
+email: abba@biopol.is</description>
         
         
         <media:content url="/images/UmOkkur/users-solid.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -60,7 +60,7 @@ Netfang: abba@biopol.is</description>
       </item>
       
       <item>
-        <title>Forsaga og upphaf</title>
+        <title>Forsaga og upphaf (in Icelandic)</title>
         <link>/en/umokkur/forsaga/</link>
         <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
         <author>halldor@biopol.is</author>
@@ -78,11 +78,11 @@ Netfang: abba@biopol.is</description>
       </item>
       
       <item>
-        <title>Research</title>
+        <title>Research (in Icelandic)</title>
         <link>/en/umokkur/ranns%C3%B3knir/</link>
-        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <pubDate>Mon, 19 Jan 2009 21:13:42 +0900</pubDate>
         <author>halldor@biopol.is</author>
-        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <atom:modified>Mon, 19 Jan 2009 21:13:42 +0900</atom:modified>
         <guid>/en/umokkur/ranns%C3%B3knir/</guid>
         <description>Kjarnastarfsemi setursins byggist á rannsóknum á lífríki Húnaflóa. Markmið rannsóknanna beinast m.a. að möguleikum á nýtingu sjávarfangs sem ekki hefur haft skilgreind not eða eiginleikar ekki verið þekktir. Einnig beinist rannsóknarstarfið að umhverfisvöktun með sérstaka áherslu á að fylgjast með breytingum á lífríkinu, áhrifavöldum og afleiðingum.
 Á vettvangi lífríkisrannsókna verður byggt upp samstarf við sambærilegar rannsóknarstofnanir bæði innanlands og utan. Horft verði til þess að innlendar rannsóknarstofur á þessu sviði myndi þekkingarklasa og jafnframt verði ræktað gott samstarf við erlendar rannsóknarstofnanir á borð við Scottish Association for Marine Science.</description>
@@ -103,7 +103,7 @@ Netfang: abba@biopol.is</description>
         <author>halldor@biopol.is</author>
         <atom:modified>Tue, 18 Jan 2011 21:13:42 +0900</atom:modified>
         <guid>/en/umokkur/stj%C3%B3rn/</guid>
-        <description>Sjávarlíftæknisetrið BioPol ehf var stofnað þann 5. júlí 2007 en hóf formlega starfsemi þann 1. september 2007. StjórnVarastjórnAdolf H. Berndsen formaður
+        <description>BioPol was established the 5th of July 2007. ChairpersonsVice-chairpersonsAdolf H. Berndsen, president
 Hjörleifur Einarsson
 Rögnvaldur Ólafsson
 Sigríður Gestsdóttir
@@ -111,7 +111,7 @@ Steindór R. HaraldssonGígja H. Óskarsdóttir
 Guðjón Guðjónsson
 Guðmundur Finnbogason
 Ingibergur Guðmundsson
-Magnús B. JónssonStjórn BioPol ehf.:við fundarstörf árið 2008&#39;use strict&#39;;var containerId = JSON.parse(&#34;\&#34;0385335088e010e1\&#34;&#34;);var containerElem = document.getElementById(containerId);var tabLinks = null;var tabContents = null;var ids = [];if (containerElem) {tabLinks = containerElem.</description>
+Magnús B. JónssonThe BioPol board:A boardmeeting in 2008&#39;use strict&#39;;var containerId = JSON.parse(&#34;\&#34;398dd9254a5a1ce3\&#34;&#34;);var containerElem = document.getElementById(containerId);var tabLinks = null;var tabContents = null;var ids = [];if (containerElem) {tabLinks = containerElem.</description>
         
         
         <media:content url="/images/UmOkkur/mug-hot-solid.svg" medium="image"><media:title type="html">featured image</media:title></media:content>

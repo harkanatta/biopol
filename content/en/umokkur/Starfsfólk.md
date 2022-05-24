@@ -1,7 +1,7 @@
 ---
-title: "Starfsfólk"
+title: "Staff"
 date: 2020-01-19T21:13:42+09:00
-description: Starfsfólk BioPol
+description: BioPol Staff
 weight: 1
 pinned: true
 thumb: feature3/css3-bare.png
@@ -9,35 +9,35 @@ image: images/UmOkkur/users-solid.svg
 ---
 
 ### Halldór G. Ólafsson
-Framkvæmdastjóri
+Manager
 sími: 8967977
-Netfang: halldor@biopol.is
+email: halldor@biopol.is
 [Research Gate](https://www.researchgate.net/profile/Halldor_Olafsson)
 
 ### Dr. Bettina Scholz
-Þörungasérfræðingur
-Netfang: bettina@biopol.is
+Biology PhD
+email: bettina@biopol.is
 [Research Gate](https://www.researchgate.net/profile/Bettina_Scholz)
 
 ### Valtýr Sigurðsson
-Líffræðingur MSc
-Netfang: valtyr@biopol.is
+Biology MSc
+email: valtyr@biopol.is
 [Google Scholar](https://scholar.google.com/citations?user=-V5LEZwAAAAJ&hl=en)
 
 ### Þórhildur María Jónsdóttir
-Umsjón Vörusmiðju
+Director of Vörusmiðja
 sími: 8636355
-Netfang: tota@biopol.is
+email: tota@biopol.is
 
 ### Jens Jakob Sigurðarson
-Efnaverkfræðingur PhD
-Netfang: jens@biopol.is
+Engineer PhD
+email: jens@biopol.is
 [Research Gate](https://www.researchgate.net/profile/Jens_Jakob_Sigurdarson)
 
 ### Judith Maria Scheja
-Rannsóknamaður MSc
-Netfang: judith@biopol.is
+Research MSc
+email: judith@biopol.is
 
 ### Auðbjörg Ósk Guðjónsdóttir
-Sölumaður
-Netfang: abba@biopol.is
+Sales
+email: abba@biopol.is

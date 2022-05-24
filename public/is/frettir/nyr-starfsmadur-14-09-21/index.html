@@ -1310,7 +1310,7 @@
     
 </head>
 
-<body id="root" class="theme__dark">
+<body id="root" class="theme__light">
     <script>
         var localTheme = localStorage.getItem('theme');
         if (localTheme) {
@@ -1349,11 +1349,11 @@
       
         
         <a href="#" class="dropdown-item select-theme__item is-active">
-          dark
+          light
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          light
+          dark
         </a>
         
       
@@ -1516,11 +1516,11 @@
       
         
         <a href="#" class="dropdown-item select-theme__item is-active">
-          dark
+          light
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          light
+          dark
         </a>
         
       
@@ -1881,11 +1881,11 @@ Umsóknarfrestur er til og með 30. sepember nk. Umsóknir með ítarlegum uppl�
         </li>
         
         <li>
-          <a href="../../../is/frettir/grjotkrabbi/" class="related__link">Grjótkrabbi á Skagaströnd</a>
+          <a href="../../../is/frettir/thorungablomi/" class="related__link">Þörungablómi í Skagastrandarhöfn.</a>
         </li>
         
         <li>
-          <a href="../../../is/frettir/thorungablomi/" class="related__link">Þörungablómi í Skagastrandarhöfn.</a>
+          <a href="../../../is/frettir/grjotkrabbi/" class="related__link">Grjótkrabbi á Skagaströnd</a>
         </li>
         
         <li>
@@ -2701,7 +2701,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (lib && lib.includes('mermaid')) {
       
-      var themeVariant = localStorage.getItem('theme') || JSON.parse("\"dark\"");
+      var themeVariant = localStorage.getItem('theme') || JSON.parse("\"light\"");
 
       if (themeVariant === "dark" || themeVariant === "hacker") {
         mermaid.initialize({ theme: 'dark' });

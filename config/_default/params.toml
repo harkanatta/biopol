@@ -21,7 +21,7 @@ hideSingleContentsWhenJSDisabled = false
 homeHeaderType = "text" # text, img, slide
 
 # menu
-showMobileMenuTerms = ["tags"]
+showMobileMenuTerms = ["tags", "categories", "series"]
 
 # body
 enableBreadcrumb = true
@@ -53,7 +53,7 @@ link = "https://biopol.is/"
 enableBio = true
 enableBioImage = true
 enableSidebar = true
-enableSidebarTags = true
+enableSidebarTags = false
 enableSidebarSeries = false
 enableSidebarCategories = false
 enableHomeSidebarTitles = true

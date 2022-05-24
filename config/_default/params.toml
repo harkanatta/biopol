@@ -7,7 +7,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light"]
+themeOptions = ["light", "dark"]
 notAllowedTypesInHome = ["utgafa","umokkur","about","contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
@@ -21,7 +21,7 @@ hideSingleContentsWhenJSDisabled = false
 homeHeaderType = "text" # text, img, slide
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+showMobileMenuTerms = ["tags"]
 
 # body
 enableBreadcrumb = true
@@ -53,7 +53,7 @@ link = "https://biopol.is/"
 enableBio = true
 enableBioImage = true
 enableSidebar = true
-enableSidebarTags = false
+enableSidebarTags = true
 enableSidebarSeries = false
 enableSidebarCategories = false
 enableHomeSidebarTitles = true

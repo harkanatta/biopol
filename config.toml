@@ -52,5 +52,5 @@ googleAnalytics = ""
 
 [taxonomies]
   category = "flokkar"
-  tags = "tög"
+  tag = "tög"
   series = "seríur"

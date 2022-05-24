@@ -1,8 +1,0 @@
-Ospar strandhreinsun.
-Biopol heldur úti strandvöktun samkvæmt aðferðafræði og leiðbeiningum frá OSPAR (samningur um verndun hafrýmis Norðaustur-Atlantshafsins). Þetta er þetta þriðja árið sem Biopol tekur þátt í verkefninu og vaktar ströndina á Víkum á Skaga. Ströndin í Víkum er ein af sex OSPAR ströndum hérlendis (hlekkur). Tilgangurinn með vöktuninni er að draga úr skaðsemi vegna mengunar á hafi og ströndum með því að finna út hvaðan rusl á ströndunum kemur, hversu hratt það safnast upp á ströndunum og fleira. Nánar má lesa um OSPAR verkefnið á vef Umhverfisstöfnunar (hlekkur).
-Á ströndinni í Víkum er talsvert af rekaviði og er hún því söfnunarsvæði fyrir rusl sem flýtur á haffletinum. Mest af ruslinu sem finnst þar er plast sem fylgir sjómennsku en plast er almennt í yfirgnæfandi meirihluta alls rusls sem finnst í íslenskum fjörum (hlekkur).
-Eins og sjá má á myndunum var mikið rusl á þessum 100 metra kafla í fjörunni sem var hreinsuð síðasta haust.
-
-http://www.mcsuk.org/ospar/beach/vikur
-https://www.ust.is/haf-og-vatn/plastmengun/voktun-stranda/
-https://harkanatta.github.io/orplastskyrslaUAR/umhverfi.html#fig:ospartafla

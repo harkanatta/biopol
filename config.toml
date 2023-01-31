@@ -1,7 +1,7 @@
 baseURL = "https://biopol.netlify.app/"
 title = "BioPol"
 theme = "hugo-theme-zzo"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 relativeURLS = true
 
 defaultContentLanguage = "is"

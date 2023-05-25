@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>myndskeið on BioPol</title>
+    <link>/is/tags/myndskei%C3%B0/</link>
+    <description>Recent content in myndskeið on BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 16 Aug 2018 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/myndskei%C3%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Nýjar myndir úr höfninni (myndskeið)</title>
+        <link>/is/frettir/nyrdroni/</link>
+        <pubDate>Thu, 16 Aug 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 16 Aug 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/nyrdroni/</guid>
+        <description>Nýjasti „starfskrafturinn“ hjá BioPol er kafbátur (neðansjávar flygildi) af gerðinni Trident frá OpenRov. Líklega munu eintök eins og þetta verða í hverri höfn innan skamms. Myndskeiðin eru tekin á eins til sjö metra dýpi og á þeim birtast nokkrar flyðrur og grjótkrabbi ásamt þorskfiskaseiðum og úrgangshrúgum sandorma.
+BioPol recently got an underwater drone, Trident from OpenRov. This handy equipment, suitable for both research and procreation will most likely be standard eqipment in the future.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/Trident_litil_0.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>myndskeið</category>
+            
+          
+            
+              <category>trident</category>
+            
+          
+            
+              <category>english below</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

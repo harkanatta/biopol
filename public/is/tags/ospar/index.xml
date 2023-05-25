@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ospar on BioPol</title>
+    <link>/is/tags/ospar/</link>
+    <description>Recent content in ospar on BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 15 May 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/ospar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Ospar strandhreinsun</title>
+        <link>/is/frettir/ospar15-05-20/</link>
+        <pubDate>Fri, 15 May 2020 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Fri, 15 May 2020 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/ospar15-05-20/</guid>
+        <description>Biopol heldur úti strandvöktun samkvæmt aðferðafræði og leiðbeiningum frá OSPAR (samningur um verndun hafrýmis Norðaustur-Atlantshafsins). Þetta er þriðja árið sem Biopol tekur þátt í verkefninu og vaktar ströndina á Víkum á Skaga. Ströndin í Víkum er ein af sex OSPAR ströndum hérlendis. Tilgangurinn með vöktuninni er að draga úr skaðsemi vegna mengunar á hafi og ströndum með því að finna út hvaðan rusl á ströndunum kemur, hversu hratt það safnast upp á ströndunum og fleira.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/ospar/IMG_6724.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ospar</category>
+            
+          
+            
+              <category>Beach clean-up</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

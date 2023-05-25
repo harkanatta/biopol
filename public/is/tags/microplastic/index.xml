@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>microplastic on BioPol</title>
+    <link>/is/tags/microplastic/</link>
+    <description>Recent content in microplastic on BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 22 May 2018 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/microplastic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Rannsóknir BioPol á örplastmengun - umfjöllun í Fiskifréttum</title>
+        <link>/is/frettir/fiskifrettkarin/</link>
+        <pubDate>Tue, 22 May 2018 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Tue, 22 May 2018 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/fiskifrettkarin/</guid>
+        <description>Linda Kristjánsdóttir starfsmaður BioPol tók eftir plasti í kræklingalirfusýnum sem hún hefur skoðað síðan 2012. Mælingar á örplasti hófust hjá okkur snemma í vör og sér Karin Zech um það verkefni. Engin sambærileg vöktun er viðhöfð hér við land þó svo slíkt sé stundað við nágrannalönd okkar mörg hver. Hér er tengill á frétt Fiskifrétta.
+Microplastics in the ocean in Húnaflói are being thoroughly examined in a new monitoring program under the management of Karin Zech.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/orplast/karin_microplast_fiskifr.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>örplast</category>
+            
+          
+            
+              <category>microplastic</category>
+            
+          
+            
+              <category>english below</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,129 +1,92 @@
 ---
-title: Z Themes
-description: Hugo zzo, zdoc theme documentation home page
-date: 2020-01-26T04:15:05+09:00
-draft: false
-landing:
-  height: 500
-  image: favicon/android-icon-192x192.png
+header:
+- align: center
+  height: 200
+  paddingX: 50
+  paddingY: 0
+  spaceBetweenTitleSubtitle: 16
+  subtitle:
+  - Sjávarlíftæknisetur Skagaströnd
+  subtitleColor: null
+  subtitleCursive: true
+  subtitleFontSize: 18
   title:
-    - Z Themes
-  text:
-    - This is Hugo Z Themes documentation site
-  titleColor:
-  textColor:
-  spaceBetweenTitleText: 25
-  buttons:
-    - link: zzo
-      text: HUGO THEME ZZO
-      color: primary
-    - link: zdoc
-      text: HUGO THEME ZDOC
-      color: default
-  # backgroundImage: 
-  #   src: images/landscape.jpg
-  #   height: 600
-updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
-sections:
-  - bgcolor: teal
-    type: card
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-    header: 
-      title: Why Zdoc
-      hlcolor: "#8bc34a"
-      color: '#fff'
-      fontSize: 32
-      width: 220
-    cards:
-      - subtitle: Performance
-        subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue."
-        image: images/section/keyboard.png
-        color: white
-        button: 
-          name: Naver
-          link: https://naver.com
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
-      - subtitle: Reliability
-        subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-        image: images/section/processor.png
-        color: white
-        button: 
-          name: Google
-          link: https://google.com
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
-      - subtitle: Productivity
-        subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-        image: images/section/root-server.png
-        color: white
-        button: 
-          name: Yahoo
-          link: https://yahoo.com
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
-  - bgcolor: DarkSlateBlue
-    type: normal
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-    header:
-      title: Build it with Zdoc
-      hlcolor: DarkKhaki
-      color: "#fff"
-      fontSize: 32
-      width: 340
-    body:
-      subtitle: Extensible and customizable.
-      subtitlePosition: left
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-      color: white
-      image: images/section/root-server.png
-      imagePosition: left
-footer:
-  sections:
-    - title: General
-      links:
-        - title: Docs
-          link: https://gohugo.io/
-        - title: Learn
-          link: https://gohugo.io/
-        - title: Showcase
-          link: https://gohugo.io/
-        - title: Blog
-          link: https://gohugo.io/
-    - title: resources
-      links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
-    - title: Features
-      links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
-  contents: 
-    align: left
-    applySinglePageCss: false
-    markdown:
-      |
-      ## Zzo docs
-      Copyright © 2020. All rights reserved.
+  - Biopol
+  titleColor: null
+  titleFontSize: 44
+  titleShadow: true
+  type: text
+- align: center
+  height: 460
+  imagePosition: center
+  imageRepeat: no-repeat
+  imageSize: cover
+  imageSrc: images/header/DJI_0241.JPG
+  paddingX: 50
+  paddingY: 0
+  spaceBetweenTitleSubtitle: 20
+  subtitle:
+  - null
+  subtitleColor: null
+  subtitleCursive: false
+  subtitleFontSize: 16
+  title:
+  - null
+  titleColor: null
+  titleFontSize: 44
+  titleShadow: false
+  type: img
+- height: 235
+  options:
+    auto: 5000
+    autoRestart: true
+    continuous: true
+    disableScroll: true
+    draggable: true
+    startSlide: 0
+    stopPropagation: true
+  slide:
+  - align: left
+    imagePosition: center
+    imageRepeat: no-repeat
+    imageSize: cover
+    imageSrc: images/header/background.jpg
+    paddingX: 50
+    paddingY: 0
+    spaceBetweenTitleSubtitle: 20
+    subtitle:
+    - header subtitle1
+    subtitleFontSize: 16
+    title:
+    - header title1
+    titleFontSize: 44
+  - align: center
+    imagePosition: center
+    imageRepeat: no-repeat
+    imageSize: cover
+    imageSrc: images/header/background.jpg
+    paddingX: 50
+    paddingY: 0
+    spaceBetweenTitleSubtitle: 20
+    subtitle:
+    - header subtitle2
+    subtitleFontSize: 16
+    title:
+    - header title2
+    titleFontSize: 44
+  - align: right
+    imagePosition: center
+    imageRepeat: no-repeat
+    imageSize: cover
+    imageSrc: images/header/background.jpg
+    paddingX: 50
+    paddingY: 0
+    spaceBetweenTitleSubtitle: 20
+    subtitle:
+    - header subtitle3
+    subtitleFontSize: 16
+    title:
+    - header title3
+    titleFontSize: 44
+  type: slide
 ---

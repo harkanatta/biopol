@@ -54,6 +54,31 @@
                 href="/is/umokkur/stj%C3%B3rn/"
                 />
   </url><url>
+    <loc>/is/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/"
+                />
+  </url><url>
+    <loc>/is/tags/cosmetics/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/dha/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/english-below/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/epa/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/</loc>
     <lastmod>2022-01-20T12:00:06+09:00</lastmod>
     <xhtml:link
@@ -67,10 +92,50 @@
                 href="/is/frettir/"
                 />
   </url><url>
+    <loc>/is/tags/innovation/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/ny-grein-heidrun-26-01-22/</loc>
     <lastmod>2022-01-20T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/n%C3%BDsk%C3%B6pun/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/nytt-thorungaverkefni-20-01-22/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/omega3/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/peptone/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/seaweed/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/single-cell-oil/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/snyrtiv%C3%B6rur/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/tags/"
+                />
+  </url><url>
+    <loc>/is/tags/thraustochytrid/</loc>
+    <lastmod>2022-01-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/%C3%BE%C3%B6rungar/</loc>
     <lastmod>2022-01-20T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/gallery/</loc>
@@ -99,51 +164,56 @@
                 href="/is/gallery/frettamyndir/"
                 />
   </url><url>
-    <loc>/is/t%C3%B6g/bioplastics/</loc>
+    <loc>/is/tags/bioplastics/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>/is/t%C3%B6g/bl%C3%A1bakter%C3%ADur/</loc>
+    <loc>/is/tags/bl%C3%A1bakter%C3%ADur/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>/is/t%C3%B6g/cyanobacteria/</loc>
-    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>/is/t%C3%B6g/english-below/</loc>
+    <loc>/is/tags/cyanobacteria/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/loa-15-09-21/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>/is/t%C3%B6g/phb/</loc>
+    <loc>/is/tags/phb/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>/is/t%C3%B6g/poly-3-hydroxybutyrate/</loc>
+    <loc>/is/tags/poly-3-hydroxybutyrate/</loc>
     <lastmod>2021-09-15T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>/is/t%C3%B6g/</loc>
-    <lastmod>2021-09-15T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/t%C3%B6g/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/t%C3%B6g/"
-                />
   </url><url>
     <loc>/is/frettir/nyr-starfsmadur-14-09-21/</loc>
     <lastmod>2021-09-14T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/%C3%BDmislegt/</loc>
+    <lastmod>2021-09-14T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/samstarf/</loc>
+    <lastmod>2021-06-08T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/fiskifodur-08-06-21/</loc>
     <lastmod>2021-06-08T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/ranns%C3%B3knir/</loc>
+    <lastmod>2021-04-14T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/studentassistant-14-04-21/</loc>
     <lastmod>2021-04-14T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/ne%C3%B0ansj%C3%A1var-dr%C3%B3ni/</loc>
+    <lastmod>2020-06-11T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/thingvellir11-06-20/</loc>
     <lastmod>2020-06-11T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/trident/</loc>
+    <lastmod>2020-06-11T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/beach-clean-up/</loc>
+    <lastmod>2020-05-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/ospar/</loc>
+    <lastmod>2020-05-15T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/ospar15-05-20/</loc>
     <lastmod>2020-05-15T12:00:06+09:00</lastmod>
@@ -151,24 +221,17 @@
     <loc>/is/frettir/studentar/</loc>
     <lastmod>2020-05-04T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/gr%C3%A1sleppa/</loc>
+    <lastmod>2020-03-09T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/hrognkelsi/</loc>
+    <lastmod>2020-03-09T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/hrognkelsamerkingarc/</loc>
     <lastmod>2020-03-09T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/samningur2019/</loc>
     <lastmod>2020-02-24T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>/is/</loc>
-    <lastmod>2020-01-26T04:15:05+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="is"
-                href="/is/"
-                />
   </url><url>
     <loc>/is/umokkur/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
@@ -186,7 +249,16 @@
     <loc>/is/vorusmidja/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/nnv/</loc>
+    <lastmod>2019-11-06T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/sk%C3%BDrsla/</loc>
+    <lastmod>2019-11-06T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/orplastskyrsla/</loc>
+    <lastmod>2019-11-06T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/%C3%B6rplast/</loc>
     <lastmod>2019-11-06T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/archive/</loc>
@@ -202,11 +274,20 @@
                 href="/is/archive/"
                 />
   </url><url>
+    <loc>/is/tags/ssnv/</loc>
+    <lastmod>2019-10-14T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/%C3%BEari/</loc>
+    <lastmod>2019-10-14T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/thari/</loc>
     <lastmod>2019-10-14T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/hrognkelsamerkingarb/</loc>
     <lastmod>2019-02-26T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/myndskei%C3%B0/</loc>
+    <lastmod>2018-08-16T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/nyrdroni/</loc>
     <lastmod>2018-08-16T12:00:06+09:00</lastmod>
@@ -214,13 +295,31 @@
     <loc>/is/frettir/beachcleanup/</loc>
     <lastmod>2018-05-31T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/samf%C3%A9lag/</loc>
+    <lastmod>2018-05-31T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/sk%C3%B3laheims%C3%B3kn/</loc>
+    <lastmod>2018-05-31T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/microplastic/</loc>
+    <lastmod>2018-05-22T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/fiskifrettkarin/</loc>
     <lastmod>2018-05-22T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/lumpfish/</loc>
+    <lastmod>2018-04-25T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/fiskifrettir/</loc>
     <lastmod>2018-04-25T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/farsk%C3%B3linn/</loc>
+    <lastmod>2018-03-13T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/lifvorusmidjan/</loc>
+    <lastmod>2018-03-13T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/v%C3%B6rusmi%C3%B0jan/</loc>
     <lastmod>2018-03-13T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/gestirvorusmidjan/</loc>
@@ -229,7 +328,16 @@
     <loc>/is/frettir/hrognkelsigrein/</loc>
     <lastmod>2018-02-02T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/%C3%BAtg%C3%A1fa/</loc>
+    <lastmod>2018-02-02T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/grjotkrabbi/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/mynskei%C3%B0/</loc>
+    <lastmod>2017-10-12T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/v%C3%ADdj%C3%B3/</loc>
     <lastmod>2017-10-12T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/thorungablomi/</loc>
@@ -238,10 +346,19 @@
     <loc>/is/frettir/vorusm_tilkynning/</loc>
     <lastmod>2017-09-17T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/tilkynningar/</loc>
+    <lastmod>2017-09-17T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/skotuselsmerkingar/</loc>
     <lastmod>2017-08-09T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/sk%C3%B6tuselur/</loc>
+    <lastmod>2017-08-09T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/daniel_nemi/</loc>
+    <lastmod>2017-03-31T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/nemar/</loc>
     <lastmod>2017-03-31T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/augl_matarsmidjan/</loc>
@@ -259,8 +376,14 @@
     <loc>/is/frettir/nygreinbett/</loc>
     <lastmod>2015-04-30T12:00:06+09:00</lastmod>
   </url><url>
+    <loc>/is/tags/rau%C3%B0magi/</loc>
+    <lastmod>2015-04-29T12:00:06+09:00</lastmod>
+  </url><url>
     <loc>/is/frettir/raudmagi/</loc>
     <lastmod>2015-04-29T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>/is/tags/aflat%C3%B6lur/</loc>
+    <lastmod>2015-02-12T12:00:06+09:00</lastmod>
   </url><url>
     <loc>/is/frettir/aflatolurd/</loc>
     <lastmod>2015-02-12T12:00:06+09:00</lastmod>
@@ -352,6 +475,18 @@
                 rel="alternate"
                 hreflang="is"
                 href="/is/flokkar/"
+                />
+  </url><url>
+    <loc>/is/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/tags/index/"
                 />
   </url><url>
     <loc>/is/ser%C3%ADur/</loc>

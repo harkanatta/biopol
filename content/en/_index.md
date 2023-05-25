@@ -17,11 +17,11 @@ header:
   titleShadow: true
   type: text
 - align: center
-  height: 235
+  height: 460
   imagePosition: center
   imageRepeat: no-repeat
   imageSize: cover
-  imageSrc: images/header/background.jpg
+  imageSrc: images/header/DJI_0241.JPG
   paddingX: 50
   paddingY: 0
   spaceBetweenTitleSubtitle: 20

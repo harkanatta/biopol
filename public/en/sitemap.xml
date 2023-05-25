@@ -158,6 +158,18 @@
                 href="/en/flokkar/"
                 />
   </url><url>
+    <loc>/en/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="is"
+                href="/is/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/index/"
+                />
+  </url><url>
     <loc>/en/frettir/</loc>
     <xhtml:link
                 rel="alternate"
@@ -182,16 +194,16 @@
                 href="/en/ser%C3%ADur/"
                 />
   </url><url>
-    <loc>/en/t%C3%B6g/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="is"
-                href="/is/t%C3%B6g/"
+                href="/is/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/t%C3%B6g/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>

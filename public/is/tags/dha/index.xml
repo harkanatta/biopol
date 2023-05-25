@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>DHA on BioPol</title>
+    <link>/is/tags/dha/</link>
+    <description>Recent content in DHA on BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/dha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Ný grein um olíumyndandi örverur og sláturhúsaúrgang</title>
+        <link>/is/frettir/ny-grein-heidrun-26-01-22/</link>
+        <pubDate>Thu, 20 Jan 2022 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Thu, 20 Jan 2022 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/ny-grein-heidrun-26-01-22/</guid>
+        <description>Heiðrún Eiríksdóttir fyrrum starfsmaður BioPol sem starfar núna hjá Náttúrufræðistofnun á Akureyri fékk á dögunum útgefna ritrýnda grein í tímaritinu Marine Drugs. Rannsókn hennar fjallar um vöxt olíumyndandi örvera í æti framleiddu úr aukaafurðum sláturhúsa en verkefnið var hluti af meistaraverkefni Heiðrúnar í samstarfi BioPol og Háskólans á Akureyri. Meginhluti vinnunnar við verkefnið fór fram hjá BioPol á Skagaströnd og var hluti af stóru rannsóknaverkefni styrkt af AVS rannsóknasjóði í sjávarútvegi.</description>
+        
+        <dc:creator>Valtýr Sigurðsson</dc:creator>
+        <media:content url="/images/frettamyndir/HeidrunVorn/HeidrunVorn.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Thraustochytrid</category>
+            
+          
+            
+              <category>DHA</category>
+            
+          
+            
+              <category>EPA</category>
+            
+          
+            
+              <category>peptone</category>
+            
+          
+            
+              <category>single-cell oil</category>
+            
+          
+            
+              <category>omega3</category>
+            
+          
+            
+              <category>english below</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

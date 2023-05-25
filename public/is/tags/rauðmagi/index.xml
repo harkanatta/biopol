@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>rauðmagi on BioPol</title>
+    <link>/is/tags/rau%C3%B0magi/</link>
+    <description>Recent content in rauðmagi on BioPol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>is</language>
+    <managingEditor>halldor@biopol.is</managingEditor>
+    <webMaster>halldor@biopol.is</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 29 Apr 2015 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="/is/tags/rau%C3%B0magi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Víðförull rauðmagi með rafeindamerki</title>
+        <link>/is/frettir/raudmagi/</link>
+        <pubDate>Wed, 29 Apr 2015 12:00:06 +0900</pubDate>
+        <author>halldor@biopol.is</author>
+        <atom:modified>Wed, 29 Apr 2015 12:00:06 +0900</atom:modified>
+        <guid>/is/frettir/raudmagi/</guid>
+        <description>Í ralli Hafrannsóknastofnunarinnar í mars í vor, nánar tiltekið um borð í Bjarna Sæmundssyni, voru fjórir rauðmagar merktir með rafeindamerki frá Stjörnu Odda og þeim sleppt aftur. Merki þessi safna upplýsingum um dýpi og hitastig á þeim stað þar sem einstaka fiskar hafa haldið sig. Á þann hátt geta merkin gefið mikilvægar upplýsingar um hegðun of atferli einstakra fisktegunda. Eini gallinn er að endurheimta þarf merkin til þess að hægt sé að nálgast upplýsingarnar.</description>
+        
+        <dc:creator>Halldór G. Ólafsson</dc:creator>
+        <media:content url="/images/frettamyndir/Tag%2084730.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rauðmagi</category>
+            
+          
+            
+              <category>grásleppa</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
